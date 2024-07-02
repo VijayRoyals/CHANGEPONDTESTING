@@ -1,0 +1,14 @@
+TDD-Test driven development: 
+-Test first development approach 
+-Write tests before we write just enough production code. 
+-To make the test pass, refactor the production code. 
+-Main goal is to check the specification not validation. 
+-Making sure requirements are aligned.
+
+BDD -Behavior Driven development 
+-It's a software development approach on TDD[Test Driver Development]. 
+-Document the discussions on requirements / features in a natural language. 
+
+-Improves the communication between tech & non-tech members. 
+-Divide user stories into real time scenarios with examples instead of test cases. 
+-Improves the tracking of test coverage. 
