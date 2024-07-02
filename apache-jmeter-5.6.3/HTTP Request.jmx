@@ -1,0 +1,1194 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1719902355174,164,HTTP Request,200,OK,CollegeStudents 1-1,text,true,,11663,136,2,2,http://badmintonsouq.in/main-category/mens,164,0,67
+1719902355268,188,HTTP Request,200,OK,CollegeStudents 1-2,text,true,,37329,272,3,3,https://badmintonsouq.in/main-category/mens,76,0,32
+1719902355268,76,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-2,text,true,,613,136,3,3,http://badmintonsouq.in/main-category/mens,76,0,32
+1719902355344,112,HTTP Request-1,200,OK,CollegeStudents 1-2,text,true,,36716,136,3,3,https://badmintonsouq.in/main-category/mens,81,0,59
+1719902355457,66,HTTP Request,200,OK,CollegeStudents 1-2,text,true,,37327,272,4,4,https://badmintonsouq.in/main-category/mens,42,0,0
+1719902355457,42,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-2,text,true,,612,136,4,4,http://badmintonsouq.in/main-category/mens,42,0,0
+1719902355499,24,HTTP Request-1,200,OK,CollegeStudents 1-2,text,true,,36715,136,4,4,https://badmintonsouq.in/main-category/mens,22,0,0
+1719902355524,69,HTTP Request,200,OK,CollegeStudents 1-2,text,true,,37327,272,5,5,https://badmintonsouq.in/main-category/mens,44,0,0
+1719902355371,222,HTTP Request,200,OK,CollegeStudents 1-3,text,true,,37329,272,5,5,https://badmintonsouq.in/main-category/mens,60,0,28
+1719902355524,44,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-2,text,true,,612,136,5,5,http://badmintonsouq.in/main-category/mens,44,0,0
+1719902355371,60,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-3,text,true,,613,136,5,5,http://badmintonsouq.in/main-category/mens,60,0,28
+1719902355568,25,HTTP Request-1,200,OK,CollegeStudents 1-2,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,23,0,0
+1719902355431,162,HTTP Request-1,200,OK,CollegeStudents 1-3,text,true,,36716,136,5,5,https://badmintonsouq.in/main-category/mens,118,0,79
+1719902355340,278,HTTP Request,200,OK,CollegeStudents 1-1,text,true,,37329,272,5,5,https://badmintonsouq.in/main-category/mens,91,0,34
+1719902355340,91,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-1,text,true,,613,136,5,5,http://badmintonsouq.in/main-category/mens,91,0,34
+1719902355431,187,HTTP Request-1,200,OK,CollegeStudents 1-1,text,true,,36716,136,5,5,https://badmintonsouq.in/main-category/mens,143,0,97
+1719902355594,70,HTTP Request,200,OK,CollegeStudents 1-2,text,true,,37327,272,5,5,https://badmintonsouq.in/main-category/mens,45,0,0
+1719902355594,45,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-2,text,true,,612,136,5,5,http://badmintonsouq.in/main-category/mens,45,0,0
+1719902355639,25,HTTP Request-1,200,OK,CollegeStudents 1-2,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,22,0,0
+1719902355594,75,HTTP Request,200,OK,CollegeStudents 1-3,text,true,,37327,272,6,6,https://badmintonsouq.in/main-category/mens,35,0,0
+1719902355594,35,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-3,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,35,0,0
+1719902355630,39,HTTP Request-1,200,OK,CollegeStudents 1-3,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,37,0,0
+1719902355468,223,HTTP Request,200,OK,CollegeStudents 1-4,text,true,,37329,272,6,6,https://badmintonsouq.in/main-category/mens,108,0,48
+1719902355468,108,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-4,text,true,,613,136,6,6,http://badmintonsouq.in/main-category/mens,108,0,48
+1719902355577,114,HTTP Request-1,200,OK,CollegeStudents 1-4,text,true,,36716,136,6,6,https://badmintonsouq.in/main-category/mens,87,0,60
+1719902355619,94,HTTP Request,200,OK,CollegeStudents 1-1,text,true,,37327,272,6,6,https://badmintonsouq.in/main-category/mens,45,0,0
+1719902355619,45,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-1,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,45,0,0
+1719902355664,49,HTTP Request-1,200,OK,CollegeStudents 1-1,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,46,0,0
+1719902355664,77,HTTP Request,200,OK,CollegeStudents 1-2,text,true,,37327,272,6,6,https://badmintonsouq.in/main-category/mens,53,0,0
+1719902355664,53,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-2,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,53,0,0
+1719902355717,24,HTTP Request-1,200,OK,CollegeStudents 1-2,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,22,0,0
+1719902355670,75,HTTP Request,200,OK,CollegeStudents 1-3,text,true,,37327,272,5,5,https://badmintonsouq.in/main-category/mens,33,0,0
+1719902355670,33,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-3,text,true,,612,136,5,5,http://badmintonsouq.in/main-category/mens,33,0,0
+1719902355703,42,HTTP Request-1,200,OK,CollegeStudents 1-3,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,40,0,0
+1719902355691,92,HTTP Request,200,OK,CollegeStudents 1-4,text,true,,37327,272,6,6,https://badmintonsouq.in/main-category/mens,59,0,0
+1719902355691,59,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-4,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,59,0,0
+1719902355750,33,HTTP Request-1,200,OK,CollegeStudents 1-4,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,31,0,0
+1719902355713,95,HTTP Request,200,OK,CollegeStudents 1-1,text,true,,37327,272,6,6,https://badmintonsouq.in/main-category/mens,46,0,0
+1719902355713,46,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-1,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,46,0,0
+1719902355759,49,HTTP Request-1,200,OK,CollegeStudents 1-1,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,47,0,0
+1719902355746,72,HTTP Request,200,OK,CollegeStudents 1-3,text,true,,37327,272,6,6,https://badmintonsouq.in/main-category/mens,32,0,0
+1719902355746,32,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-3,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,32,0,0
+1719902355779,39,HTTP Request-1,200,OK,CollegeStudents 1-3,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,37,0,0
+1719902355568,285,HTTP Request,200,OK,CollegeStudents 1-5,text,true,,37329,272,6,6,https://badmintonsouq.in/main-category/mens,106,0,46
+1719902355568,106,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-5,text,true,,613,136,6,6,http://badmintonsouq.in/main-category/mens,106,0,46
+1719902355675,178,HTTP Request-1,200,OK,CollegeStudents 1-5,text,true,,36716,136,6,6,https://badmintonsouq.in/main-category/mens,145,0,110
+1719902355783,91,HTTP Request,200,OK,CollegeStudents 1-4,text,true,,37327,272,7,7,https://badmintonsouq.in/main-category/mens,61,0,0
+1719902355783,61,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-4,text,true,,612,136,7,7,http://badmintonsouq.in/main-category/mens,61,0,0
+1719902355844,30,HTTP Request-1,200,OK,CollegeStudents 1-4,text,true,,36715,136,7,7,https://badmintonsouq.in/main-category/mens,28,0,0
+1719902355818,73,HTTP Request,200,OK,CollegeStudents 1-3,text,true,,37327,272,7,7,https://badmintonsouq.in/main-category/mens,33,0,0
+1719902355818,33,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-3,text,true,,612,136,7,7,http://badmintonsouq.in/main-category/mens,33,0,0
+1719902355851,40,HTTP Request-1,200,OK,CollegeStudents 1-3,text,true,,36715,136,7,7,https://badmintonsouq.in/main-category/mens,37,0,0
+1719902355808,98,HTTP Request,200,OK,CollegeStudents 1-1,text,true,,37327,272,6,6,https://badmintonsouq.in/main-category/mens,49,0,0
+1719902355808,49,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-1,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,49,0,0
+1719902355857,49,HTTP Request-1,200,OK,CollegeStudents 1-1,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,47,0,0
+1719902355854,95,HTTP Request,200,OK,CollegeStudents 1-5,text,true,,37327,272,5,5,https://badmintonsouq.in/main-category/mens,57,0,0
+1719902355854,58,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-5,text,true,,612,136,5,5,http://badmintonsouq.in/main-category/mens,57,0,0
+1719902355912,37,HTTP Request-1,200,OK,CollegeStudents 1-5,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,35,0,0
+1719902355874,90,HTTP Request,200,OK,CollegeStudents 1-4,text,true,,37327,272,5,5,https://badmintonsouq.in/main-category/mens,59,0,0
+1719902355874,60,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-4,text,true,,612,136,5,5,http://badmintonsouq.in/main-category/mens,59,0,0
+1719902355934,30,HTTP Request-1,200,OK,CollegeStudents 1-4,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,28,0,0
+1719902355668,309,HTTP Request,200,OK,CollegeStudents 1-6,text,true,,37329,272,6,6,https://badmintonsouq.in/main-category/mens,121,0,52
+1719902355668,121,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-6,text,true,,613,136,6,6,http://badmintonsouq.in/main-category/mens,121,0,52
+1719902355790,187,HTTP Request-1,200,OK,CollegeStudents 1-6,text,true,,36716,136,6,6,https://badmintonsouq.in/main-category/mens,161,0,133
+1719902355768,267,HTTP Request,200,OK,CollegeStudents 1-7,text,true,,37329,272,6,6,https://badmintonsouq.in/main-category/mens,151,0,26
+1719902355768,151,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-7,text,true,,613,136,6,6,http://badmintonsouq.in/main-category/mens,151,0,26
+1719902355920,115,HTTP Request-1,200,OK,CollegeStudents 1-7,text,true,,36716,136,6,6,https://badmintonsouq.in/main-category/mens,89,0,62
+1719902355950,100,HTTP Request,200,OK,CollegeStudents 1-5,text,true,,37327,272,6,6,https://badmintonsouq.in/main-category/mens,62,0,0
+1719902355950,62,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-5,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,62,0,0
+1719902356012,38,HTTP Request-1,200,OK,CollegeStudents 1-5,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,36,0,0
+1719902355965,95,HTTP Request,200,OK,CollegeStudents 1-4,text,true,,37327,272,6,6,https://badmintonsouq.in/main-category/mens,64,0,0
+1719902355965,64,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-4,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,64,0,0
+1719902356029,31,HTTP Request-1,200,OK,CollegeStudents 1-4,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,28,0,0
+1719902355977,98,HTTP Request,200,OK,CollegeStudents 1-6,text,true,,37327,272,6,6,https://badmintonsouq.in/main-category/mens,67,0,0
+1719902355977,67,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-6,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,67,0,0
+1719902356044,31,HTTP Request-1,200,OK,CollegeStudents 1-6,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,29,0,0
+1719902356036,69,HTTP Request,200,OK,CollegeStudents 1-7,text,true,,37327,272,6,6,https://badmintonsouq.in/main-category/mens,39,0,0
+1719902356036,39,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-7,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,39,0,0
+1719902356075,30,HTTP Request-1,200,OK,CollegeStudents 1-7,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,28,0,0
+1719902356050,93,HTTP Request,200,OK,CollegeStudents 1-5,text,true,,37327,272,6,6,https://badmintonsouq.in/main-category/mens,56,0,0
+1719902356050,56,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-5,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,56,0,0
+1719902356106,37,HTTP Request-1,200,OK,CollegeStudents 1-5,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,35,0,0
+1719902355868,279,HTTP Request,200,OK,CollegeStudents 1-8,text,true,,37329,272,6,6,https://badmintonsouq.in/main-category/mens,66,0,28
+1719902355868,66,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-8,text,true,,613,136,6,6,http://badmintonsouq.in/main-category/mens,66,0,28
+1719902355935,212,HTTP Request-1,200,OK,CollegeStudents 1-8,text,true,,36716,136,6,6,https://badmintonsouq.in/main-category/mens,186,0,158
+1719902356075,109,HTTP Request,200,OK,CollegeStudents 1-6,text,true,,37327,272,6,6,https://badmintonsouq.in/main-category/mens,59,0,0
+1719902356075,59,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-6,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,59,0,0
+1719902356134,50,HTTP Request-1,200,OK,CollegeStudents 1-6,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,47,0,0
+1719902356106,104,HTTP Request,200,OK,CollegeStudents 1-7,text,true,,37327,272,6,6,https://badmintonsouq.in/main-category/mens,37,0,0
+1719902356106,37,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-7,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,37,0,0
+1719902356143,67,HTTP Request-1,200,OK,CollegeStudents 1-7,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,65,0,0
+1719902356148,92,HTTP Request,200,OK,CollegeStudents 1-8,text,true,,37327,272,6,6,https://badmintonsouq.in/main-category/mens,62,0,0
+1719902356148,62,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-8,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,62,0,0
+1719902356210,30,HTTP Request-1,200,OK,CollegeStudents 1-8,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,28,0,0
+1719902356143,120,HTTP Request,200,OK,CollegeStudents 1-5,text,true,,37327,272,6,6,https://badmintonsouq.in/main-category/mens,83,0,0
+1719902356143,83,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-5,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,83,0,0
+1719902356226,37,HTTP Request-1,200,OK,CollegeStudents 1-5,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,35,0,0
+1719902356210,65,HTTP Request,200,OK,CollegeStudents 1-7,text,true,,37327,272,5,5,https://badmintonsouq.in/main-category/mens,34,0,0
+1719902356210,34,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-7,text,true,,612,136,5,5,http://badmintonsouq.in/main-category/mens,34,0,0
+1719902356244,31,HTTP Request-1,200,OK,CollegeStudents 1-7,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,28,0,0
+1719902356184,94,HTTP Request,200,OK,CollegeStudents 1-6,text,true,,37327,272,5,5,https://badmintonsouq.in/main-category/mens,62,0,0
+1719902356184,62,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-6,text,true,,612,136,5,5,http://badmintonsouq.in/main-category/mens,62,0,0
+1719902356246,32,HTTP Request-1,200,OK,CollegeStudents 1-6,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,30,0,0
+1719902356241,71,HTTP Request,200,OK,CollegeStudents 1-8,text,true,,37327,272,5,5,https://badmintonsouq.in/main-category/mens,41,0,0
+1719902356241,41,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-8,text,true,,612,136,5,5,http://badmintonsouq.in/main-category/mens,41,0,0
+1719902356282,30,HTTP Request-1,200,OK,CollegeStudents 1-8,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,28,0,0
+1719902356275,71,HTTP Request,200,OK,CollegeStudents 1-7,text,true,,37327,272,5,5,https://badmintonsouq.in/main-category/mens,41,0,0
+1719902356275,41,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-7,text,true,,612,136,5,5,http://badmintonsouq.in/main-category/mens,41,0,0
+1719902356316,30,HTTP Request-1,200,OK,CollegeStudents 1-7,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,28,0,0
+1719902356278,92,HTTP Request,200,OK,CollegeStudents 1-6,text,true,,37327,272,4,4,https://badmintonsouq.in/main-category/mens,62,0,0
+1719902356278,62,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-6,text,true,,612,136,4,4,http://badmintonsouq.in/main-category/mens,62,0,0
+1719902356340,30,HTTP Request-1,200,OK,CollegeStudents 1-6,text,true,,36715,136,4,4,https://badmintonsouq.in/main-category/mens,28,0,0
+1719902356313,69,HTTP Request,200,OK,CollegeStudents 1-8,text,true,,37327,272,3,3,https://badmintonsouq.in/main-category/mens,39,0,0
+1719902356313,39,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-8,text,true,,612,136,3,3,http://badmintonsouq.in/main-category/mens,39,0,0
+1719902356352,30,HTTP Request-1,200,OK,CollegeStudents 1-8,text,true,,36715,136,3,3,https://badmintonsouq.in/main-category/mens,28,0,0
+1719902355968,443,HTTP Request,200,OK,CollegeStudents 1-9,text,true,,37329,272,3,3,https://badmintonsouq.in/main-category/mens,123,0,31
+1719902355968,123,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-9,text,true,,613,136,3,3,http://badmintonsouq.in/main-category/mens,123,0,31
+1719902356091,320,HTTP Request-1,200,OK,CollegeStudents 1-9,text,true,,36716,136,3,3,https://badmintonsouq.in/main-category/mens,274,0,226
+1719902356382,76,HTTP Request,200,OK,CollegeStudents 1-8,text,true,,37327,272,3,3,https://badmintonsouq.in/main-category/mens,41,0,0
+1719902356382,41,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-8,text,true,,612,136,3,3,http://badmintonsouq.in/main-category/mens,41,0,0
+1719902356423,35,HTTP Request-1,200,OK,CollegeStudents 1-8,text,true,,36715,136,3,3,https://badmintonsouq.in/main-category/mens,33,0,0
+1719902356067,417,HTTP Request,200,OK,CollegeStudents 1-10,text,true,,37329,272,2,2,https://badmintonsouq.in/main-category/mens,225,0,28
+1719902356067,225,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-10,text,true,,613,136,2,2,http://badmintonsouq.in/main-category/mens,225,0,28
+1719902356349,135,HTTP Request-1,200,OK,CollegeStudents 1-10,text,true,,36716,136,2,2,https://badmintonsouq.in/main-category/mens,103,0,71
+1719902356411,97,HTTP Request,200,OK,CollegeStudents 1-9,text,true,,37327,272,2,2,https://badmintonsouq.in/main-category/mens,47,0,0
+1719902356411,47,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-9,text,true,,612,136,2,2,http://badmintonsouq.in/main-category/mens,47,0,0
+1719902356458,50,HTTP Request-1,200,OK,CollegeStudents 1-9,text,true,,36715,136,2,2,https://badmintonsouq.in/main-category/mens,48,0,0
+1719902356484,83,HTTP Request,200,OK,CollegeStudents 1-10,text,true,,37327,272,2,2,https://badmintonsouq.in/main-category/mens,38,0,0
+1719902356484,38,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-10,text,true,,612,136,2,2,http://badmintonsouq.in/main-category/mens,38,0,0
+1719902356522,45,HTTP Request-1,200,OK,CollegeStudents 1-10,text,true,,36715,136,2,2,https://badmintonsouq.in/main-category/mens,43,0,0
+1719902356509,104,HTTP Request,200,OK,CollegeStudents 1-9,text,true,,37327,272,2,2,https://badmintonsouq.in/main-category/mens,40,0,0
+1719902356509,40,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-9,text,true,,612,136,2,2,http://badmintonsouq.in/main-category/mens,40,0,0
+1719902356549,64,HTTP Request-1,200,OK,CollegeStudents 1-9,text,true,,36715,136,2,2,https://badmintonsouq.in/main-category/mens,62,0,0
+1719902356567,74,HTTP Request,200,OK,CollegeStudents 1-10,text,true,,37327,272,2,2,https://badmintonsouq.in/main-category/mens,39,0,0
+1719902356567,39,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-10,text,true,,612,136,2,2,http://badmintonsouq.in/main-category/mens,39,0,0
+1719902356606,35,HTTP Request-1,200,OK,CollegeStudents 1-10,text,true,,36715,136,2,2,https://badmintonsouq.in/main-category/mens,32,0,0
+1719902356613,90,HTTP Request,200,OK,CollegeStudents 1-9,text,true,,37327,272,2,2,https://badmintonsouq.in/main-category/mens,40,0,0
+1719902356613,40,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-9,text,true,,612,136,2,2,http://badmintonsouq.in/main-category/mens,40,0,0
+1719902356654,49,HTTP Request-1,200,OK,CollegeStudents 1-9,text,true,,36715,136,2,2,https://badmintonsouq.in/main-category/mens,47,0,0
+1719902356641,72,HTTP Request,200,OK,CollegeStudents 1-10,text,true,,37327,272,2,2,https://badmintonsouq.in/main-category/mens,37,0,0
+1719902356641,37,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-10,text,true,,612,136,2,2,http://badmintonsouq.in/main-category/mens,37,0,0
+1719902356678,35,HTTP Request-1,200,OK,CollegeStudents 1-10,text,true,,36715,136,2,2,https://badmintonsouq.in/main-category/mens,33,0,0
+1719902356704,92,HTTP Request,200,OK,CollegeStudents 1-9,text,true,,37327,272,2,2,https://badmintonsouq.in/main-category/mens,40,0,0
+1719902356704,40,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-9,text,true,,612,136,2,2,http://badmintonsouq.in/main-category/mens,40,0,0
+1719902356745,51,HTTP Request-1,200,OK,CollegeStudents 1-9,text,true,,36715,136,2,2,https://badmintonsouq.in/main-category/mens,49,0,0
+1719902356714,87,HTTP Request,200,OK,CollegeStudents 1-10,text,true,,37327,272,1,1,https://badmintonsouq.in/main-category/mens,51,0,0
+1719902356714,51,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-10,text,true,,612,136,1,1,http://badmintonsouq.in/main-category/mens,51,0,0
+1719902356766,35,HTTP Request-1,200,OK,CollegeStudents 1-10,text,true,,36715,136,1,1,https://badmintonsouq.in/main-category/mens,32,0,0
+1719902364695,281,HTTP Request,200,OK,CollegeStudents 1-1,text,true,,37329,272,3,3,https://badmintonsouq.in/main-category/mens,66,0,29
+1719902364695,66,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-1,text,true,,613,136,3,3,http://badmintonsouq.in/main-category/mens,66,0,29
+1719902364761,215,HTTP Request-1,200,OK,CollegeStudents 1-1,text,true,,36716,136,3,3,https://badmintonsouq.in/main-category/mens,165,0,113
+1719902364804,246,HTTP Request,200,OK,CollegeStudents 1-2,text,true,,37329,272,4,4,https://badmintonsouq.in/main-category/mens,54,0,24
+1719902364804,54,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-2,text,true,,613,136,4,4,http://badmintonsouq.in/main-category/mens,54,0,24
+1719902364858,192,HTTP Request-1,200,OK,CollegeStudents 1-2,text,true,,36716,136,4,4,https://badmintonsouq.in/main-category/mens,146,0,98
+1719902364896,157,HTTP Request,200,OK,CollegeStudents 1-3,text,true,,37329,272,4,4,https://badmintonsouq.in/main-category/mens,66,0,29
+1719902364896,66,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-3,text,true,,613,136,4,4,http://badmintonsouq.in/main-category/mens,66,0,29
+1719902364963,90,HTTP Request-1,200,OK,CollegeStudents 1-3,text,true,,36716,136,4,4,https://badmintonsouq.in/main-category/mens,70,0,47
+1719902364976,93,HTTP Request,200,OK,CollegeStudents 1-1,text,true,,37327,272,4,4,https://badmintonsouq.in/main-category/mens,38,0,0
+1719902364976,38,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-1,text,true,,612,136,4,4,http://badmintonsouq.in/main-category/mens,38,0,0
+1719902365014,55,HTTP Request-1,200,OK,CollegeStudents 1-1,text,true,,36715,136,4,4,https://badmintonsouq.in/main-category/mens,52,0,0
+1719902365054,67,HTTP Request,200,OK,CollegeStudents 1-3,text,true,,37327,272,5,5,https://badmintonsouq.in/main-category/mens,43,0,0
+1719902365054,43,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-3,text,true,,612,136,5,5,http://badmintonsouq.in/main-category/mens,43,0,0
+1719902365097,24,HTTP Request-1,200,OK,CollegeStudents 1-3,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,22,0,0
+1719902365050,90,HTTP Request,200,OK,CollegeStudents 1-2,text,true,,37327,272,5,5,https://badmintonsouq.in/main-category/mens,41,0,0
+1719902365050,41,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-2,text,true,,612,136,5,5,http://badmintonsouq.in/main-category/mens,41,0,0
+1719902365091,49,HTTP Request-1,200,OK,CollegeStudents 1-2,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,47,0,0
+1719902365069,92,HTTP Request,200,OK,CollegeStudents 1-1,text,true,,37327,272,5,5,https://badmintonsouq.in/main-category/mens,37,0,0
+1719902365069,37,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-1,text,true,,612,136,5,5,http://badmintonsouq.in/main-category/mens,37,0,0
+1719902365106,55,HTTP Request-1,200,OK,CollegeStudents 1-1,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,53,0,0
+1719902365121,64,HTTP Request,200,OK,CollegeStudents 1-3,text,true,,37327,272,5,5,https://badmintonsouq.in/main-category/mens,40,0,0
+1719902365121,40,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-3,text,true,,612,136,5,5,http://badmintonsouq.in/main-category/mens,40,0,0
+1719902365161,24,HTTP Request-1,200,OK,CollegeStudents 1-3,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,22,0,0
+1719902365141,80,HTTP Request,200,OK,CollegeStudents 1-2,text,true,,37327,272,6,6,https://badmintonsouq.in/main-category/mens,30,0,0
+1719902365141,30,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-2,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,30,0,0
+1719902365171,50,HTTP Request-1,200,OK,CollegeStudents 1-2,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,48,0,0
+1719902365186,66,HTTP Request,200,OK,CollegeStudents 1-3,text,true,,37327,272,6,6,https://badmintonsouq.in/main-category/mens,41,0,0
+1719902365186,41,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-3,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,41,0,0
+1719902365227,25,HTTP Request-1,200,OK,CollegeStudents 1-3,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,22,0,0
+1719902365161,94,HTTP Request,200,OK,CollegeStudents 1-1,text,true,,37327,272,6,6,https://badmintonsouq.in/main-category/mens,36,0,0
+1719902365161,36,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-1,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,36,0,0
+1719902365197,58,HTTP Request-1,200,OK,CollegeStudents 1-1,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,56,0,0
+1719902365221,90,HTTP Request,200,OK,CollegeStudents 1-2,text,true,,37327,272,7,7,https://badmintonsouq.in/main-category/mens,40,0,0
+1719902365221,40,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-2,text,true,,612,136,7,7,http://badmintonsouq.in/main-category/mens,40,0,0
+1719902365261,50,HTTP Request-1,200,OK,CollegeStudents 1-2,text,true,,36715,136,7,7,https://badmintonsouq.in/main-category/mens,48,0,0
+1719902365098,235,HTTP Request,200,OK,CollegeStudents 1-5,text,true,,37329,272,7,7,https://badmintonsouq.in/main-category/mens,112,0,53
+1719902365098,112,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-5,text,true,,613,136,7,7,http://badmintonsouq.in/main-category/mens,112,0,53
+1719902365211,122,HTTP Request-1,200,OK,CollegeStudents 1-5,text,true,,36716,136,7,7,https://badmintonsouq.in/main-category/mens,86,0,58
+1719902365252,82,HTTP Request,200,OK,CollegeStudents 1-3,text,true,,37327,272,7,7,https://badmintonsouq.in/main-category/mens,51,0,0
+1719902365252,51,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-3,text,true,,612,136,7,7,http://badmintonsouq.in/main-category/mens,51,0,0
+1719902365303,31,HTTP Request-1,200,OK,CollegeStudents 1-3,text,true,,36715,136,7,7,https://badmintonsouq.in/main-category/mens,30,0,0
+1719902365255,101,HTTP Request,200,OK,CollegeStudents 1-1,text,true,,37327,272,6,6,https://badmintonsouq.in/main-category/mens,47,0,0
+1719902365255,47,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-1,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,47,0,0
+1719902365302,54,HTTP Request-1,200,OK,CollegeStudents 1-1,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,52,0,0
+1719902364998,387,HTTP Request,200,OK,CollegeStudents 1-4,text,true,,37329,272,5,5,https://badmintonsouq.in/main-category/mens,103,0,46
+1719902364998,103,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-4,text,true,,613,136,5,5,http://badmintonsouq.in/main-category/mens,103,0,46
+1719902365102,283,HTTP Request-1,200,OK,CollegeStudents 1-4,text,true,,36716,136,5,5,https://badmintonsouq.in/main-category/mens,192,0,99
+1719902365311,86,HTTP Request,200,OK,CollegeStudents 1-2,text,true,,37327,272,6,6,https://badmintonsouq.in/main-category/mens,36,0,0
+1719902365311,36,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-2,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,36,0,0
+1719902365347,50,HTTP Request-1,200,OK,CollegeStudents 1-2,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,48,0,0
+1719902365333,99,HTTP Request,200,OK,CollegeStudents 1-5,text,true,,37327,272,5,5,https://badmintonsouq.in/main-category/mens,69,0,0
+1719902365333,69,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-5,text,true,,612,136,5,5,http://badmintonsouq.in/main-category/mens,69,0,0
+1719902365402,30,HTTP Request-1,200,OK,CollegeStudents 1-5,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,28,0,0
+1719902365196,280,HTTP Request,200,OK,CollegeStudents 1-6,text,true,,37329,272,5,5,https://badmintonsouq.in/main-category/mens,187,0,59
+1719902365196,187,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-6,text,true,,613,136,5,5,http://badmintonsouq.in/main-category/mens,187,0,59
+1719902365383,93,HTTP Request-1,200,OK,CollegeStudents 1-6,text,true,,36716,136,5,5,https://badmintonsouq.in/main-category/mens,72,0,49
+1719902365293,201,HTTP Request,200,OK,CollegeStudents 1-7,text,true,,37329,272,6,6,https://badmintonsouq.in/main-category/mens,75,0,27
+1719902365293,75,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-7,text,true,,613,136,6,6,http://badmintonsouq.in/main-category/mens,75,0,27
+1719902365369,125,HTTP Request-1,200,OK,CollegeStudents 1-7,text,true,,36716,136,6,6,https://badmintonsouq.in/main-category/mens,96,0,66
+1719902365432,97,HTTP Request,200,OK,CollegeStudents 1-5,text,true,,37327,272,6,6,https://badmintonsouq.in/main-category/mens,66,0,0
+1719902365432,66,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-5,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,66,0,0
+1719902365499,30,HTTP Request-1,200,OK,CollegeStudents 1-5,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,28,0,0
+1719902365494,69,HTTP Request,200,OK,CollegeStudents 1-7,text,true,,37327,272,6,6,https://badmintonsouq.in/main-category/mens,36,0,0
+1719902365494,36,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-7,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,36,0,0
+1719902365530,33,HTTP Request-1,200,OK,CollegeStudents 1-7,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,31,0,0
+1719902365476,90,HTTP Request,200,OK,CollegeStudents 1-6,text,true,,37327,272,6,6,https://badmintonsouq.in/main-category/mens,63,0,0
+1719902365476,63,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-6,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,63,0,0
+1719902365539,27,HTTP Request-1,200,OK,CollegeStudents 1-6,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,25,0,0
+1719902365530,93,HTTP Request,200,OK,CollegeStudents 1-5,text,true,,37327,272,7,7,https://badmintonsouq.in/main-category/mens,63,0,0
+1719902365530,63,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-5,text,true,,612,136,7,7,http://badmintonsouq.in/main-category/mens,63,0,0
+1719902365594,29,HTTP Request-1,200,OK,CollegeStudents 1-5,text,true,,36715,136,7,7,https://badmintonsouq.in/main-category/mens,27,0,0
+1719902365564,77,HTTP Request,200,OK,CollegeStudents 1-7,text,true,,37327,272,7,7,https://badmintonsouq.in/main-category/mens,44,0,0
+1719902365564,44,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-7,text,true,,612,136,7,7,http://badmintonsouq.in/main-category/mens,44,0,0
+1719902365608,33,HTTP Request-1,200,OK,CollegeStudents 1-7,text,true,,36715,136,7,7,https://badmintonsouq.in/main-category/mens,30,0,0
+1719902365394,256,HTTP Request,200,OK,CollegeStudents 1-8,text,true,,37329,272,7,7,https://badmintonsouq.in/main-category/mens,64,0,28
+1719902365394,64,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-8,text,true,,613,136,7,7,http://badmintonsouq.in/main-category/mens,64,0,28
+1719902365459,191,HTTP Request-1,200,OK,CollegeStudents 1-8,text,true,,36716,136,7,7,https://badmintonsouq.in/main-category/mens,145,0,98
+1719902365567,93,HTTP Request,200,OK,CollegeStudents 1-6,text,true,,37327,272,7,7,https://badmintonsouq.in/main-category/mens,68,0,0
+1719902365567,68,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-6,text,true,,612,136,7,7,http://badmintonsouq.in/main-category/mens,68,0,0
+1719902365635,25,HTTP Request-1,200,OK,CollegeStudents 1-6,text,true,,36715,136,7,7,https://badmintonsouq.in/main-category/mens,23,0,0
+1719902365641,68,HTTP Request,200,OK,CollegeStudents 1-7,text,true,,37327,272,7,7,https://badmintonsouq.in/main-category/mens,36,0,0
+1719902365641,36,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-7,text,true,,612,136,7,7,http://badmintonsouq.in/main-category/mens,36,0,0
+1719902365677,32,HTTP Request-1,200,OK,CollegeStudents 1-7,text,true,,36715,136,7,7,https://badmintonsouq.in/main-category/mens,30,0,0
+1719902365624,93,HTTP Request,200,OK,CollegeStudents 1-5,text,true,,37327,272,7,7,https://badmintonsouq.in/main-category/mens,61,0,0
+1719902365624,61,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-5,text,true,,612,136,7,7,http://badmintonsouq.in/main-category/mens,61,0,0
+1719902365686,31,HTTP Request-1,200,OK,CollegeStudents 1-5,text,true,,36715,136,7,7,https://badmintonsouq.in/main-category/mens,28,0,0
+1719902365650,88,HTTP Request,200,OK,CollegeStudents 1-8,text,true,,37327,272,6,6,https://badmintonsouq.in/main-category/mens,37,0,0
+1719902365650,37,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-8,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,37,0,0
+1719902365688,50,HTTP Request-1,200,OK,CollegeStudents 1-8,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,48,0,0
+1719902365494,301,HTTP Request,200,OK,CollegeStudents 1-9,text,true,,37329,272,6,6,https://badmintonsouq.in/main-category/mens,81,0,35
+1719902365494,81,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-9,text,true,,613,136,6,6,http://badmintonsouq.in/main-category/mens,81,0,35
+1719902365576,219,HTTP Request-1,200,OK,CollegeStudents 1-9,text,true,,36716,136,6,6,https://badmintonsouq.in/main-category/mens,197,0,175
+1719902365660,152,HTTP Request,200,OK,CollegeStudents 1-6,text,true,,37327,272,6,6,https://badmintonsouq.in/main-category/mens,63,0,0
+1719902365660,63,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-6,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,63,0,0
+1719902365787,25,HTTP Request-1,200,OK,CollegeStudents 1-6,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,23,0,0
+1719902365710,109,HTTP Request,200,OK,CollegeStudents 1-7,text,true,,37327,272,6,6,https://badmintonsouq.in/main-category/mens,35,0,0
+1719902365710,35,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-7,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,35,0,0
+1719902365787,32,HTTP Request-1,200,OK,CollegeStudents 1-7,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,30,0,0
+1719902365738,98,HTTP Request,200,OK,CollegeStudents 1-8,text,true,,37327,272,5,5,https://badmintonsouq.in/main-category/mens,36,0,0
+1719902365738,36,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-8,text,true,,612,136,5,5,http://badmintonsouq.in/main-category/mens,36,0,0
+1719902365787,49,HTTP Request-1,200,OK,CollegeStudents 1-8,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,47,0,0
+1719902365795,71,HTTP Request,200,OK,CollegeStudents 1-9,text,true,,37327,272,5,5,https://badmintonsouq.in/main-category/mens,45,0,0
+1719902365795,45,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-9,text,true,,612,136,5,5,http://badmintonsouq.in/main-category/mens,45,0,0
+1719902365841,25,HTTP Request-1,200,OK,CollegeStudents 1-9,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,23,0,0
+1719902365813,92,HTTP Request,200,OK,CollegeStudents 1-6,text,true,,37327,272,5,5,https://badmintonsouq.in/main-category/mens,67,0,0
+1719902365813,67,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-6,text,true,,612,136,5,5,http://badmintonsouq.in/main-category/mens,67,0,0
+1719902365880,25,HTTP Request-1,200,OK,CollegeStudents 1-6,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,23,0,0
+1719902365592,327,HTTP Request,200,OK,CollegeStudents 1-10,text,true,,37329,272,4,4,https://badmintonsouq.in/main-category/mens,159,0,34
+1719902365592,159,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-10,text,true,,613,136,4,4,http://badmintonsouq.in/main-category/mens,159,0,34
+1719902365787,132,HTTP Request-1,200,OK,CollegeStudents 1-10,text,true,,36716,136,4,4,https://badmintonsouq.in/main-category/mens,101,0,69
+1719902365837,88,HTTP Request,200,OK,CollegeStudents 1-8,text,true,,37327,272,4,4,https://badmintonsouq.in/main-category/mens,38,0,0
+1719902365837,38,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-8,text,true,,612,136,4,4,http://badmintonsouq.in/main-category/mens,38,0,0
+1719902365875,50,HTTP Request-1,200,OK,CollegeStudents 1-8,text,true,,36715,136,4,4,https://badmintonsouq.in/main-category/mens,47,0,0
+1719902365866,69,HTTP Request,200,OK,CollegeStudents 1-9,text,true,,37327,272,4,4,https://badmintonsouq.in/main-category/mens,44,0,0
+1719902365866,44,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-9,text,true,,612,136,4,4,http://badmintonsouq.in/main-category/mens,44,0,0
+1719902365910,25,HTTP Request-1,200,OK,CollegeStudents 1-9,text,true,,36715,136,4,4,https://badmintonsouq.in/main-category/mens,23,0,0
+1719902365920,79,HTTP Request,200,OK,CollegeStudents 1-10,text,true,,37327,272,4,4,https://badmintonsouq.in/main-category/mens,44,0,0
+1719902365920,44,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-10,text,true,,612,136,4,4,http://badmintonsouq.in/main-category/mens,44,0,0
+1719902365964,35,HTTP Request-1,200,OK,CollegeStudents 1-10,text,true,,36715,136,4,4,https://badmintonsouq.in/main-category/mens,33,0,0
+1719902365936,69,HTTP Request,200,OK,CollegeStudents 1-9,text,true,,37327,272,4,4,https://badmintonsouq.in/main-category/mens,44,0,0
+1719902365936,44,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-9,text,true,,612,136,4,4,http://badmintonsouq.in/main-category/mens,44,0,0
+1719902365980,25,HTTP Request-1,200,OK,CollegeStudents 1-9,text,true,,36715,136,4,4,https://badmintonsouq.in/main-category/mens,22,0,0
+1719902365930,92,HTTP Request,200,OK,CollegeStudents 1-8,text,true,,37327,272,4,4,https://badmintonsouq.in/main-category/mens,41,0,0
+1719902365930,41,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-8,text,true,,612,136,4,4,http://badmintonsouq.in/main-category/mens,41,0,0
+1719902365971,51,HTTP Request-1,200,OK,CollegeStudents 1-8,text,true,,36715,136,4,4,https://badmintonsouq.in/main-category/mens,49,0,0
+1719902366005,78,HTTP Request,200,OK,CollegeStudents 1-9,text,true,,37327,272,3,3,https://badmintonsouq.in/main-category/mens,53,0,0
+1719902366005,53,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-9,text,true,,612,136,3,3,http://badmintonsouq.in/main-category/mens,53,0,0
+1719902366058,25,HTTP Request-1,200,OK,CollegeStudents 1-9,text,true,,36715,136,3,3,https://badmintonsouq.in/main-category/mens,23,0,0
+1719902366000,92,HTTP Request,200,OK,CollegeStudents 1-10,text,true,,37327,272,2,2,https://badmintonsouq.in/main-category/mens,57,0,0
+1719902366000,57,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-10,text,true,,612,136,2,2,http://badmintonsouq.in/main-category/mens,57,0,0
+1719902366057,35,HTTP Request-1,200,OK,CollegeStudents 1-10,text,true,,36715,136,2,2,https://badmintonsouq.in/main-category/mens,33,0,0
+1719902366092,78,HTTP Request,200,OK,CollegeStudents 1-10,text,true,,37327,272,2,2,https://badmintonsouq.in/main-category/mens,43,0,0
+1719902366092,43,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-10,text,true,,612,136,2,2,http://badmintonsouq.in/main-category/mens,43,0,0
+1719902366135,35,HTTP Request-1,200,OK,CollegeStudents 1-10,text,true,,36715,136,2,2,https://badmintonsouq.in/main-category/mens,33,0,0
+1719902365386,787,HTTP Request,200,OK,CollegeStudents 1-4,text,true,,37327,272,2,2,https://badmintonsouq.in/main-category/mens,56,0,0
+1719902365386,56,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-4,text,true,,612,136,2,2,http://badmintonsouq.in/main-category/mens,56,0,0
+1719902365442,731,HTTP Request-1,200,OK,CollegeStudents 1-4,text,true,,36715,136,2,2,https://badmintonsouq.in/main-category/mens,93,0,0
+1719902366170,80,HTTP Request,200,OK,CollegeStudents 1-10,text,true,,37327,272,2,2,https://badmintonsouq.in/main-category/mens,44,0,0
+1719902366170,44,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-10,text,true,,612,136,2,2,http://badmintonsouq.in/main-category/mens,44,0,0
+1719902366214,36,HTTP Request-1,200,OK,CollegeStudents 1-10,text,true,,36715,136,2,2,https://badmintonsouq.in/main-category/mens,34,0,0
+1719902366173,705,HTTP Request,200,OK,CollegeStudents 1-4,text,true,,37327,272,1,1,https://badmintonsouq.in/main-category/mens,56,0,0
+1719902366173,56,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-4,text,true,,612,136,1,1,http://badmintonsouq.in/main-category/mens,56,0,0
+1719902366229,649,HTTP Request-1,200,OK,CollegeStudents 1-4,text,true,,36715,136,1,1,https://badmintonsouq.in/main-category/mens,137,0,0
+1719902366878,480,HTTP Request,200,OK,CollegeStudents 1-4,text,true,,37327,272,1,1,https://badmintonsouq.in/main-category/mens,55,0,0
+1719902366878,55,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-4,text,true,,612,136,1,1,http://badmintonsouq.in/main-category/mens,55,0,0
+1719902366933,425,HTTP Request-1,200,OK,CollegeStudents 1-4,text,true,,36715,136,1,1,https://badmintonsouq.in/main-category/mens,138,0,0
+1719902367358,1662,HTTP Request,200,OK,CollegeStudents 1-4,text,true,,37327,272,1,1,https://badmintonsouq.in/main-category/mens,57,0,0
+1719902367358,57,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-4,text,true,,612,136,1,1,http://badmintonsouq.in/main-category/mens,57,0,0
+1719902367415,1605,HTTP Request-1,200,OK,CollegeStudents 1-4,text,true,,36715,136,1,1,https://badmintonsouq.in/main-category/mens,157,0,0
+1719902382657,166,HTTP Request,200,OK,CollegeStudents 1-2,text,true,,37329,272,3,3,https://badmintonsouq.in/main-category/mens,72,0,31
+1719902382657,72,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-2,text,true,,613,136,3,3,http://badmintonsouq.in/main-category/mens,72,0,31
+1719902382729,94,HTTP Request-1,200,OK,CollegeStudents 1-2,text,true,,36716,136,3,3,https://badmintonsouq.in/main-category/mens,73,0,50
+1719902382555,286,HTTP Request,200,OK,CollegeStudents 1-1,text,true,,37329,272,3,3,https://badmintonsouq.in/main-category/mens,75,0,31
+1719902382555,75,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-1,text,true,,613,136,3,3,http://badmintonsouq.in/main-category/mens,75,0,31
+1719902382631,210,HTTP Request-1,200,OK,CollegeStudents 1-1,text,true,,36716,136,3,3,https://badmintonsouq.in/main-category/mens,149,0,102
+1719902382824,68,HTTP Request,200,OK,CollegeStudents 1-2,text,true,,37327,272,4,4,https://badmintonsouq.in/main-category/mens,42,0,0
+1719902382824,42,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-2,text,true,,612,136,4,4,http://badmintonsouq.in/main-category/mens,42,0,0
+1719902382866,26,HTTP Request-1,200,OK,CollegeStudents 1-2,text,true,,36715,136,4,4,https://badmintonsouq.in/main-category/mens,23,0,0
+1719902382841,98,HTTP Request,200,OK,CollegeStudents 1-1,text,true,,37327,272,4,4,https://badmintonsouq.in/main-category/mens,47,0,0
+1719902382841,47,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-1,text,true,,612,136,4,4,http://badmintonsouq.in/main-category/mens,47,0,0
+1719902382888,51,HTTP Request-1,200,OK,CollegeStudents 1-1,text,true,,36715,136,4,4,https://badmintonsouq.in/main-category/mens,49,0,0
+1719902382892,65,HTTP Request,200,OK,CollegeStudents 1-2,text,true,,37327,272,5,5,https://badmintonsouq.in/main-category/mens,40,0,0
+1719902382892,40,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-2,text,true,,612,136,5,5,http://badmintonsouq.in/main-category/mens,40,0,0
+1719902382932,25,HTTP Request-1,200,OK,CollegeStudents 1-2,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,23,0,0
+1719902382958,67,HTTP Request,200,OK,CollegeStudents 1-2,text,true,,37327,272,5,5,https://badmintonsouq.in/main-category/mens,42,0,0
+1719902382958,42,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-2,text,true,,612,136,5,5,http://badmintonsouq.in/main-category/mens,42,0,0
+1719902383000,25,HTTP Request-1,200,OK,CollegeStudents 1-2,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,23,0,0
+1719902382939,90,HTTP Request,200,OK,CollegeStudents 1-1,text,true,,37327,272,5,5,https://badmintonsouq.in/main-category/mens,40,0,0
+1719902382939,40,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-1,text,true,,612,136,5,5,http://badmintonsouq.in/main-category/mens,40,0,0
+1719902382979,50,HTTP Request-1,200,OK,CollegeStudents 1-1,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,47,0,0
+1719902383025,70,HTTP Request,200,OK,CollegeStudents 1-2,text,true,,37327,272,6,6,https://badmintonsouq.in/main-category/mens,45,0,0
+1719902383025,45,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-2,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,45,0,0
+1719902383070,25,HTTP Request-1,200,OK,CollegeStudents 1-2,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,23,0,0
+1719902382756,340,HTTP Request,200,OK,CollegeStudents 1-3,text,true,,37329,272,5,5,https://badmintonsouq.in/main-category/mens,114,0,53
+1719902382756,114,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-3,text,true,,613,136,5,5,http://badmintonsouq.in/main-category/mens,114,0,53
+1719902382871,225,HTTP Request-1,200,OK,CollegeStudents 1-3,text,true,,36716,136,5,5,https://badmintonsouq.in/main-category/mens,170,0,114
+1719902383030,92,HTTP Request,200,OK,CollegeStudents 1-1,text,true,,37327,272,5,5,https://badmintonsouq.in/main-category/mens,42,0,0
+1719902383030,42,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-1,text,true,,612,136,5,5,http://badmintonsouq.in/main-category/mens,42,0,0
+1719902383072,50,HTTP Request-1,200,OK,CollegeStudents 1-1,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,47,0,0
+1719902382856,307,HTTP Request,200,OK,CollegeStudents 1-4,text,true,,37329,272,6,6,https://badmintonsouq.in/main-category/mens,106,0,47
+1719902382856,106,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-4,text,true,,613,136,6,6,http://badmintonsouq.in/main-category/mens,106,0,47
+1719902382962,201,HTTP Request-1,200,OK,CollegeStudents 1-4,text,true,,36716,136,6,6,https://badmintonsouq.in/main-category/mens,180,0,158
+1719902383122,91,HTTP Request,200,OK,CollegeStudents 1-1,text,true,,37327,272,6,6,https://badmintonsouq.in/main-category/mens,41,0,0
+1719902383122,41,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-1,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,41,0,0
+1719902383163,50,HTTP Request-1,200,OK,CollegeStudents 1-1,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,47,0,0
+1719902383097,124,HTTP Request,200,OK,CollegeStudents 1-3,text,true,,37327,272,5,5,https://badmintonsouq.in/main-category/mens,65,0,0
+1719902383097,65,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-3,text,true,,612,136,5,5,http://badmintonsouq.in/main-category/mens,65,0,0
+1719902383163,58,HTTP Request-1,200,OK,CollegeStudents 1-3,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,55,0,0
+1719902383163,83,HTTP Request,200,OK,CollegeStudents 1-4,text,true,,37327,272,5,5,https://badmintonsouq.in/main-category/mens,58,0,0
+1719902383163,58,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-4,text,true,,612,136,5,5,http://badmintonsouq.in/main-category/mens,58,0,0
+1719902383221,25,HTTP Request-1,200,OK,CollegeStudents 1-4,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,23,0,0
+1719902383252,87,HTTP Request,200,OK,CollegeStudents 1-4,text,true,,37327,272,6,6,https://badmintonsouq.in/main-category/mens,59,0,0
+1719902383252,59,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-4,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,59,0,0
+1719902383311,28,HTTP Request-1,200,OK,CollegeStudents 1-4,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,26,0,0
+1719902383221,122,HTTP Request,200,OK,CollegeStudents 1-3,text,true,,37327,272,6,6,https://badmintonsouq.in/main-category/mens,63,0,0
+1719902383221,63,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-3,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,63,0,0
+1719902383284,59,HTTP Request-1,200,OK,CollegeStudents 1-3,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,57,0,0
+1719902382955,437,HTTP Request,200,OK,CollegeStudents 1-5,text,true,,37329,272,7,7,https://badmintonsouq.in/main-category/mens,130,0,35
+1719902382955,130,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-5,text,true,,613,136,7,7,http://badmintonsouq.in/main-category/mens,130,0,35
+1719902383086,306,HTTP Request-1,200,OK,CollegeStudents 1-5,text,true,,36716,136,7,7,https://badmintonsouq.in/main-category/mens,254,0,189
+1719902383339,84,HTTP Request,200,OK,CollegeStudents 1-4,text,true,,37327,272,7,7,https://badmintonsouq.in/main-category/mens,60,0,0
+1719902383339,60,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-4,text,true,,612,136,7,7,http://badmintonsouq.in/main-category/mens,60,0,0
+1719902383399,24,HTTP Request-1,200,OK,CollegeStudents 1-4,text,true,,36715,136,7,7,https://badmintonsouq.in/main-category/mens,22,0,0
+1719902383156,285,HTTP Request,200,OK,CollegeStudents 1-7,text,true,,37329,272,7,7,https://badmintonsouq.in/main-category/mens,82,0,25
+1719902383156,82,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-7,text,true,,613,136,7,7,http://badmintonsouq.in/main-category/mens,82,0,25
+1719902383239,202,HTTP Request-1,200,OK,CollegeStudents 1-7,text,true,,36716,136,7,7,https://badmintonsouq.in/main-category/mens,181,0,158
+1719902383343,121,HTTP Request,200,OK,CollegeStudents 1-3,text,true,,37327,272,8,8,https://badmintonsouq.in/main-category/mens,63,0,0
+1719902383343,63,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-3,text,true,,612,136,8,8,http://badmintonsouq.in/main-category/mens,63,0,0
+1719902383406,58,HTTP Request-1,200,OK,CollegeStudents 1-3,text,true,,36715,136,8,8,https://badmintonsouq.in/main-category/mens,56,0,0
+1719902383393,102,HTTP Request,200,OK,CollegeStudents 1-5,text,true,,37327,272,8,8,https://badmintonsouq.in/main-category/mens,45,0,0
+1719902383393,45,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-5,text,true,,612,136,8,8,http://badmintonsouq.in/main-category/mens,45,0,0
+1719902383438,57,HTTP Request-1,200,OK,CollegeStudents 1-5,text,true,,36715,136,8,8,https://badmintonsouq.in/main-category/mens,55,0,0
+1719902383441,62,HTTP Request,200,OK,CollegeStudents 1-7,text,true,,37327,272,8,8,https://badmintonsouq.in/main-category/mens,35,0,0
+1719902383441,35,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-7,text,true,,612,136,8,8,http://badmintonsouq.in/main-category/mens,35,0,0
+1719902383477,26,HTTP Request-1,200,OK,CollegeStudents 1-7,text,true,,36715,136,8,8,https://badmintonsouq.in/main-category/mens,23,0,0
+1719902383054,450,HTTP Request,200,OK,CollegeStudents 1-6,text,true,,37329,272,8,8,https://badmintonsouq.in/main-category/mens,113,0,52
+1719902383054,113,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-6,text,true,,613,136,8,8,http://badmintonsouq.in/main-category/mens,113,0,52
+1719902383167,337,HTTP Request-1,200,OK,CollegeStudents 1-6,text,true,,36716,136,8,8,https://badmintonsouq.in/main-category/mens,289,0,243
+1719902383424,83,HTTP Request,200,OK,CollegeStudents 1-4,text,true,,37327,272,8,8,https://badmintonsouq.in/main-category/mens,57,0,0
+1719902383424,57,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-4,text,true,,612,136,8,8,http://badmintonsouq.in/main-category/mens,57,0,0
+1719902383481,26,HTTP Request-1,200,OK,CollegeStudents 1-4,text,true,,36715,136,8,8,https://badmintonsouq.in/main-category/mens,23,0,0
+1719902383253,267,HTTP Request,200,OK,CollegeStudents 1-8,text,true,,37329,272,7,7,https://badmintonsouq.in/main-category/mens,144,0,34
+1719902383253,144,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-8,text,true,,613,136,7,7,http://badmintonsouq.in/main-category/mens,144,0,34
+1719902383399,121,HTTP Request-1,200,OK,CollegeStudents 1-8,text,true,,36716,136,7,7,https://badmintonsouq.in/main-category/mens,94,0,63
+1719902383356,209,HTTP Request,200,OK,CollegeStudents 1-9,text,true,,37329,272,7,7,https://badmintonsouq.in/main-category/mens,51,0,21
+1719902383356,51,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-9,text,true,,613,136,7,7,http://badmintonsouq.in/main-category/mens,51,0,21
+1719902383408,157,HTTP Request-1,200,OK,CollegeStudents 1-9,text,true,,36716,136,7,7,https://badmintonsouq.in/main-category/mens,130,0,102
+1719902383504,80,HTTP Request,200,OK,CollegeStudents 1-7,text,true,,37327,272,7,7,https://badmintonsouq.in/main-category/mens,54,0,0
+1719902383504,54,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-7,text,true,,612,136,7,7,http://badmintonsouq.in/main-category/mens,54,0,0
+1719902383559,25,HTTP Request-1,200,OK,CollegeStudents 1-7,text,true,,36715,136,7,7,https://badmintonsouq.in/main-category/mens,22,0,0
+1719902383465,122,HTTP Request,200,OK,CollegeStudents 1-3,text,true,,37327,272,7,7,https://badmintonsouq.in/main-category/mens,63,0,0
+1719902383465,63,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-3,text,true,,612,136,7,7,http://badmintonsouq.in/main-category/mens,63,0,0
+1719902383528,59,HTTP Request-1,200,OK,CollegeStudents 1-3,text,true,,36715,136,7,7,https://badmintonsouq.in/main-category/mens,57,0,0
+1719902383496,105,HTTP Request,200,OK,CollegeStudents 1-5,text,true,,37327,272,6,6,https://badmintonsouq.in/main-category/mens,48,0,0
+1719902383496,49,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-5,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,48,0,0
+1719902383545,56,HTTP Request-1,200,OK,CollegeStudents 1-5,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,54,0,0
+1719902383521,90,HTTP Request,200,OK,CollegeStudents 1-8,text,true,,37327,272,6,6,https://badmintonsouq.in/main-category/mens,54,0,0
+1719902383521,54,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-8,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,54,0,0
+1719902383575,36,HTTP Request-1,200,OK,CollegeStudents 1-8,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,34,0,0
+1719902383504,141,HTTP Request,200,OK,CollegeStudents 1-6,text,true,,37327,272,6,6,https://badmintonsouq.in/main-category/mens,91,0,0
+1719902383504,91,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-6,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,91,0,0
+1719902383595,50,HTTP Request-1,200,OK,CollegeStudents 1-6,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,48,0,0
+1719902383565,89,HTTP Request,200,OK,CollegeStudents 1-9,text,true,,37327,272,6,6,https://badmintonsouq.in/main-category/mens,58,0,0
+1719902383565,58,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-9,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,58,0,0
+1719902383623,31,HTTP Request-1,200,OK,CollegeStudents 1-9,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,29,0,0
+1719902383453,203,HTTP Request,200,OK,CollegeStudents 1-10,text,true,,37329,272,6,6,https://badmintonsouq.in/main-category/mens,75,0,28
+1719902383453,75,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-10,text,true,,613,136,6,6,http://badmintonsouq.in/main-category/mens,75,0,28
+1719902383529,127,HTTP Request-1,200,OK,CollegeStudents 1-10,text,true,,36716,136,6,6,https://badmintonsouq.in/main-category/mens,97,0,62
+1719902383584,81,HTTP Request,200,OK,CollegeStudents 1-7,text,true,,37327,272,6,6,https://badmintonsouq.in/main-category/mens,56,0,0
+1719902383584,56,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-7,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,56,0,0
+1719902383640,25,HTTP Request-1,200,OK,CollegeStudents 1-7,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,23,0,0
+1719902383611,82,HTTP Request,200,OK,CollegeStudents 1-8,text,true,,37327,272,6,6,https://badmintonsouq.in/main-category/mens,50,0,0
+1719902383611,50,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-8,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,50,0,0
+1719902383661,32,HTTP Request-1,200,OK,CollegeStudents 1-8,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,30,0,0
+1719902383602,115,HTTP Request,200,OK,CollegeStudents 1-5,text,true,,37327,272,6,6,https://badmintonsouq.in/main-category/mens,59,0,0
+1719902383602,59,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-5,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,59,0,0
+1719902383661,56,HTTP Request-1,200,OK,CollegeStudents 1-5,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,54,0,0
+1719902383654,70,HTTP Request,200,OK,CollegeStudents 1-9,text,true,,37327,272,6,6,https://badmintonsouq.in/main-category/mens,39,0,0
+1719902383654,39,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-9,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,39,0,0
+1719902383693,31,HTTP Request-1,200,OK,CollegeStudents 1-9,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,28,0,0
+1719902383665,62,HTTP Request,200,OK,CollegeStudents 1-7,text,true,,37327,272,6,6,https://badmintonsouq.in/main-category/mens,35,0,0
+1719902383665,35,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-7,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,35,0,0
+1719902383700,27,HTTP Request-1,200,OK,CollegeStudents 1-7,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,24,0,0
+1719902383656,74,HTTP Request,200,OK,CollegeStudents 1-10,text,true,,37327,272,5,5,https://badmintonsouq.in/main-category/mens,41,0,0
+1719902383656,41,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-10,text,true,,612,136,5,5,http://badmintonsouq.in/main-category/mens,41,0,0
+1719902383697,33,HTTP Request-1,200,OK,CollegeStudents 1-10,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,31,0,0
+1719902383646,110,HTTP Request,200,OK,CollegeStudents 1-6,text,true,,37327,272,5,5,https://badmintonsouq.in/main-category/mens,61,0,0
+1719902383646,61,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-6,text,true,,612,136,5,5,http://badmintonsouq.in/main-category/mens,61,0,0
+1719902383707,49,HTTP Request-1,200,OK,CollegeStudents 1-6,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,46,0,0
+1719902383693,76,HTTP Request,200,OK,CollegeStudents 1-8,text,true,,37327,272,5,5,https://badmintonsouq.in/main-category/mens,45,0,0
+1719902383693,45,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-8,text,true,,612,136,5,5,http://badmintonsouq.in/main-category/mens,45,0,0
+1719902383738,31,HTTP Request-1,200,OK,CollegeStudents 1-8,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,29,0,0
+1719902383725,75,HTTP Request,200,OK,CollegeStudents 1-9,text,true,,37327,272,5,5,https://badmintonsouq.in/main-category/mens,45,0,0
+1719902383725,45,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-9,text,true,,612,136,5,5,http://badmintonsouq.in/main-category/mens,45,0,0
+1719902383770,30,HTTP Request-1,200,OK,CollegeStudents 1-9,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,28,0,0
+1719902383730,74,HTTP Request,200,OK,CollegeStudents 1-10,text,true,,37327,272,5,5,https://badmintonsouq.in/main-category/mens,44,0,0
+1719902383730,44,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-10,text,true,,612,136,5,5,http://badmintonsouq.in/main-category/mens,44,0,0
+1719902383774,30,HTTP Request-1,200,OK,CollegeStudents 1-10,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,28,0,0
+1719902383717,106,HTTP Request,200,OK,CollegeStudents 1-5,text,true,,37327,272,5,5,https://badmintonsouq.in/main-category/mens,49,0,0
+1719902383717,49,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-5,text,true,,612,136,5,5,http://badmintonsouq.in/main-category/mens,49,0,0
+1719902383767,56,HTTP Request-1,200,OK,CollegeStudents 1-5,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,53,0,0
+1719902383770,75,HTTP Request,200,OK,CollegeStudents 1-8,text,true,,37327,272,4,4,https://badmintonsouq.in/main-category/mens,42,0,0
+1719902383770,42,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-8,text,true,,612,136,4,4,http://badmintonsouq.in/main-category/mens,42,0,0
+1719902383813,32,HTTP Request-1,200,OK,CollegeStudents 1-8,text,true,,36715,136,4,4,https://badmintonsouq.in/main-category/mens,29,0,0
+1719902383801,62,HTTP Request,200,OK,CollegeStudents 1-9,text,true,,37327,272,3,3,https://badmintonsouq.in/main-category/mens,31,0,0
+1719902383801,31,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-9,text,true,,612,136,3,3,http://badmintonsouq.in/main-category/mens,31,0,0
+1719902383832,31,HTTP Request-1,200,OK,CollegeStudents 1-9,text,true,,36715,136,3,3,https://badmintonsouq.in/main-category/mens,29,0,0
+1719902383756,110,HTTP Request,200,OK,CollegeStudents 1-6,text,true,,37327,272,2,2,https://badmintonsouq.in/main-category/mens,60,0,0
+1719902383756,60,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-6,text,true,,612,136,2,2,http://badmintonsouq.in/main-category/mens,60,0,0
+1719902383816,50,HTTP Request-1,200,OK,CollegeStudents 1-6,text,true,,36715,136,2,2,https://badmintonsouq.in/main-category/mens,48,0,0
+1719902383805,68,HTTP Request,200,OK,CollegeStudents 1-10,text,true,,37327,272,2,2,https://badmintonsouq.in/main-category/mens,36,0,0
+1719902383805,36,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-10,text,true,,612,136,2,2,http://badmintonsouq.in/main-category/mens,36,0,0
+1719902383841,32,HTTP Request-1,200,OK,CollegeStudents 1-10,text,true,,36715,136,2,2,https://badmintonsouq.in/main-category/mens,30,0,0
+1719902383873,68,HTTP Request,200,OK,CollegeStudents 1-10,text,true,,37327,272,2,2,https://badmintonsouq.in/main-category/mens,37,0,0
+1719902383873,37,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-10,text,true,,612,136,2,2,http://badmintonsouq.in/main-category/mens,37,0,0
+1719902383910,31,HTTP Request-1,200,OK,CollegeStudents 1-10,text,true,,36715,136,2,2,https://badmintonsouq.in/main-category/mens,29,0,0
+1719902383866,113,HTTP Request,200,OK,CollegeStudents 1-6,text,true,,37327,272,1,1,https://badmintonsouq.in/main-category/mens,64,0,0
+1719902383866,64,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-6,text,true,,612,136,1,1,http://badmintonsouq.in/main-category/mens,64,0,0
+1719902383930,49,HTTP Request-1,200,OK,CollegeStudents 1-6,text,true,,36715,136,1,1,https://badmintonsouq.in/main-category/mens,47,0,0
+1719903992218,398,HTTP Request,200,OK,CollegeStudents 1-1,text,false,"java.lang.NumberFormatException: For input string: """"",11663,136,4,4,http://badmintonsouq.in/main-category/mens,398,0,96
+1719903992318,368,HTTP Request,200,OK,CollegeStudents 1-2,text,false,"java.lang.NumberFormatException: For input string: """"",37329,272,5,5,https://badmintonsouq.in/main-category/mens,176,0,24
+1719903992318,176,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-2,text,true,,613,136,5,5,http://badmintonsouq.in/main-category/mens,176,0,24
+1719903992496,190,HTTP Request-1,200,OK,CollegeStudents 1-2,text,true,,36716,136,5,5,https://badmintonsouq.in/main-category/mens,146,0,101
+1719903992523,199,HTTP Request,200,OK,CollegeStudents 1-4,text,false,"java.lang.NumberFormatException: For input string: """"",37329,272,5,5,https://badmintonsouq.in/main-category/mens,99,0,45
+1719903992523,99,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-4,text,true,,613,136,5,5,http://badmintonsouq.in/main-category/mens,99,0,45
+1719903992622,100,HTTP Request-1,200,OK,CollegeStudents 1-4,text,true,,36716,136,5,5,https://badmintonsouq.in/main-category/mens,77,0,51
+1719903992687,79,HTTP Request,200,OK,CollegeStudents 1-2,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,6,6,https://badmintonsouq.in/main-category/mens,31,0,0
+1719903992687,31,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-2,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,31,0,0
+1719903992718,48,HTTP Request-1,200,OK,CollegeStudents 1-2,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,46,0,0
+1719903992723,87,HTTP Request,200,OK,CollegeStudents 1-4,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,6,6,https://badmintonsouq.in/main-category/mens,59,0,0
+1719903992723,59,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-4,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,59,0,0
+1719903992783,27,HTTP Request-1,200,OK,CollegeStudents 1-4,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,25,0,0
+1719903992767,85,HTTP Request,200,OK,CollegeStudents 1-2,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,7,7,https://badmintonsouq.in/main-category/mens,37,0,0
+1719903992767,37,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-2,text,true,,612,136,7,7,http://badmintonsouq.in/main-category/mens,37,0,0
+1719903992804,48,HTTP Request-1,200,OK,CollegeStudents 1-2,text,true,,36715,136,7,7,https://badmintonsouq.in/main-category/mens,46,0,0
+1719903992425,449,HTTP Request,200,OK,CollegeStudents 1-3,text,false,"java.lang.NumberFormatException: For input string: """"",37329,272,7,7,https://badmintonsouq.in/main-category/mens,190,0,31
+1719903992425,190,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-3,text,true,,613,136,7,7,http://badmintonsouq.in/main-category/mens,190,0,31
+1719903992615,259,HTTP Request-1,200,OK,CollegeStudents 1-3,text,true,,36716,136,7,7,https://badmintonsouq.in/main-category/mens,196,0,132
+1719903992811,88,HTTP Request,200,OK,CollegeStudents 1-4,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,7,7,https://badmintonsouq.in/main-category/mens,53,0,0
+1719903992811,53,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-4,text,true,,612,136,7,7,http://badmintonsouq.in/main-category/mens,53,0,0
+1719903992865,34,HTTP Request-1,200,OK,CollegeStudents 1-4,text,true,,36715,136,7,7,https://badmintonsouq.in/main-category/mens,32,0,0
+1719903992624,304,HTTP Request,200,OK,CollegeStudents 1-5,text,false,"java.lang.NumberFormatException: For input string: """"",37329,272,8,8,https://badmintonsouq.in/main-category/mens,105,0,46
+1719903992624,105,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-5,text,true,,613,136,8,8,http://badmintonsouq.in/main-category/mens,105,0,46
+1719903992729,199,HTTP Request-1,200,OK,CollegeStudents 1-5,text,true,,36716,136,8,8,https://badmintonsouq.in/main-category/mens,150,0,101
+1719903992853,77,HTTP Request,200,OK,CollegeStudents 1-2,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,8,8,https://badmintonsouq.in/main-category/mens,28,0,0
+1719903992853,28,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-2,text,true,,612,136,8,8,http://badmintonsouq.in/main-category/mens,28,0,0
+1719903992881,49,HTTP Request-1,200,OK,CollegeStudents 1-2,text,true,,36715,136,8,8,https://badmintonsouq.in/main-category/mens,46,0,0
+1719903992900,80,HTTP Request,200,OK,CollegeStudents 1-4,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,8,8,https://badmintonsouq.in/main-category/mens,53,0,0
+1719903992900,53,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-4,text,true,,612,136,8,8,http://badmintonsouq.in/main-category/mens,53,0,0
+1719903992953,27,HTTP Request-1,200,OK,CollegeStudents 1-4,text,true,,36715,136,8,8,https://badmintonsouq.in/main-category/mens,25,0,0
+1719903992875,108,HTTP Request,200,OK,CollegeStudents 1-3,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,8,8,https://badmintonsouq.in/main-category/mens,40,0,0
+1719903992875,40,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-3,text,true,,612,136,8,8,http://badmintonsouq.in/main-category/mens,40,0,0
+1719903992915,68,HTTP Request-1,200,OK,CollegeStudents 1-3,text,true,,36715,136,8,8,https://badmintonsouq.in/main-category/mens,66,0,0
+1719903992930,81,HTTP Request,200,OK,CollegeStudents 1-2,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,8,8,https://badmintonsouq.in/main-category/mens,34,0,0
+1719903992930,34,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-2,text,true,,612,136,8,8,http://badmintonsouq.in/main-category/mens,34,0,0
+1719903992964,47,HTTP Request-1,200,OK,CollegeStudents 1-2,text,true,,36715,136,8,8,https://badmintonsouq.in/main-category/mens,45,0,0
+1719903992928,117,HTTP Request,200,OK,CollegeStudents 1-5,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,8,8,https://badmintonsouq.in/main-category/mens,66,0,0
+1719903992928,66,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-5,text,true,,612,136,8,8,http://badmintonsouq.in/main-category/mens,66,0,0
+1719903992994,51,HTTP Request-1,200,OK,CollegeStudents 1-5,text,true,,36715,136,8,8,https://badmintonsouq.in/main-category/mens,49,0,0
+1719903992981,100,HTTP Request,200,OK,CollegeStudents 1-4,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,8,8,https://badmintonsouq.in/main-category/mens,71,0,0
+1719903992981,71,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-4,text,true,,612,136,8,8,http://badmintonsouq.in/main-category/mens,71,0,0
+1719903993052,29,HTTP Request-1,200,OK,CollegeStudents 1-4,text,true,,36715,136,8,8,https://badmintonsouq.in/main-category/mens,27,0,0
+1719903992984,121,HTTP Request,200,OK,CollegeStudents 1-3,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,7,7,https://badmintonsouq.in/main-category/mens,54,0,0
+1719903992984,54,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-3,text,true,,612,136,7,7,http://badmintonsouq.in/main-category/mens,54,0,0
+1719903993038,67,HTTP Request-1,200,OK,CollegeStudents 1-3,text,true,,36715,136,7,7,https://badmintonsouq.in/main-category/mens,64,0,0
+1719903992726,424,HTTP Request,200,OK,CollegeStudents 1-6,text,false,"java.lang.NumberFormatException: For input string: """"",37329,272,8,8,https://badmintonsouq.in/main-category/mens,55,0,21
+1719903992726,55,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-6,text,true,,613,136,8,8,http://badmintonsouq.in/main-category/mens,55,0,21
+1719903992781,369,HTTP Request-1,200,OK,CollegeStudents 1-6,text,true,,36716,136,8,8,https://badmintonsouq.in/main-category/mens,325,0,278
+1719903993046,126,HTTP Request,200,OK,CollegeStudents 1-5,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,8,8,https://badmintonsouq.in/main-category/mens,75,0,0
+1719903993046,75,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-5,text,true,,612,136,8,8,http://badmintonsouq.in/main-category/mens,75,0,0
+1719903993121,51,HTTP Request-1,200,OK,CollegeStudents 1-5,text,true,,36715,136,8,8,https://badmintonsouq.in/main-category/mens,49,0,0
+1719903992680,507,HTTP Request,200,OK,CollegeStudents 1-1,text,false,"java.lang.NumberFormatException: For input string: """"",37329,272,8,8,https://badmintonsouq.in/main-category/mens,135,0,61
+1719903992680,135,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-1,text,true,,613,136,8,8,http://badmintonsouq.in/main-category/mens,135,0,61
+1719903992816,371,HTTP Request-1,200,OK,CollegeStudents 1-1,text,true,,36716,136,8,8,https://badmintonsouq.in/main-category/mens,339,0,304
+1719903993105,120,HTTP Request,200,OK,CollegeStudents 1-3,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,8,8,https://badmintonsouq.in/main-category/mens,53,0,0
+1719903993105,53,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-3,text,true,,612,136,8,8,http://badmintonsouq.in/main-category/mens,53,0,0
+1719903993158,67,HTTP Request-1,200,OK,CollegeStudents 1-3,text,true,,36715,136,8,8,https://badmintonsouq.in/main-category/mens,64,0,0
+1719903993151,81,HTTP Request,200,OK,CollegeStudents 1-6,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,8,8,https://badmintonsouq.in/main-category/mens,32,0,0
+1719903993151,33,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-6,text,true,,612,136,8,8,http://badmintonsouq.in/main-category/mens,32,0,0
+1719903993184,48,HTTP Request-1,200,OK,CollegeStudents 1-6,text,true,,36715,136,8,8,https://badmintonsouq.in/main-category/mens,45,0,0
+1719903993173,110,HTTP Request,200,OK,CollegeStudents 1-5,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,8,8,https://badmintonsouq.in/main-category/mens,59,0,0
+1719903993173,59,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-5,text,true,,612,136,8,8,http://badmintonsouq.in/main-category/mens,59,0,0
+1719903993232,51,HTTP Request-1,200,OK,CollegeStudents 1-5,text,true,,36715,136,8,8,https://badmintonsouq.in/main-category/mens,49,0,0
+1719903993187,106,HTTP Request,200,OK,CollegeStudents 1-1,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,8,8,https://badmintonsouq.in/main-category/mens,71,0,0
+1719903993187,71,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-1,text,true,,612,136,8,8,http://badmintonsouq.in/main-category/mens,71,0,0
+1719903993258,35,HTTP Request-1,200,OK,CollegeStudents 1-1,text,true,,36715,136,8,8,https://badmintonsouq.in/main-category/mens,33,0,0
+1719903993233,77,HTTP Request,200,OK,CollegeStudents 1-6,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,8,8,https://badmintonsouq.in/main-category/mens,28,0,0
+1719903993233,28,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-6,text,true,,612,136,8,8,http://badmintonsouq.in/main-category/mens,28,0,0
+1719903993261,49,HTTP Request-1,200,OK,CollegeStudents 1-6,text,true,,36715,136,8,8,https://badmintonsouq.in/main-category/mens,46,0,0
+1719903993226,106,HTTP Request,200,OK,CollegeStudents 1-3,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,8,8,https://badmintonsouq.in/main-category/mens,41,0,0
+1719903993226,41,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-3,text,true,,612,136,8,8,http://badmintonsouq.in/main-category/mens,41,0,0
+1719903993267,65,HTTP Request-1,200,OK,CollegeStudents 1-3,text,true,,36715,136,8,8,https://badmintonsouq.in/main-category/mens,63,0,0
+1719903993310,78,HTTP Request,200,OK,CollegeStudents 1-6,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,7,7,https://badmintonsouq.in/main-category/mens,30,0,0
+1719903993310,30,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-6,text,true,,612,136,7,7,http://badmintonsouq.in/main-category/mens,30,0,0
+1719903993340,48,HTTP Request-1,200,OK,CollegeStudents 1-6,text,true,,36715,136,7,7,https://badmintonsouq.in/main-category/mens,45,0,0
+1719903993283,107,HTTP Request,200,OK,CollegeStudents 1-5,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,7,7,https://badmintonsouq.in/main-category/mens,54,0,0
+1719903993283,54,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-5,text,true,,612,136,7,7,http://badmintonsouq.in/main-category/mens,54,0,0
+1719903993337,53,HTTP Request-1,200,OK,CollegeStudents 1-5,text,true,,36715,136,7,7,https://badmintonsouq.in/main-category/mens,51,0,0
+1719903993294,112,HTTP Request,200,OK,CollegeStudents 1-1,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,6,6,https://badmintonsouq.in/main-category/mens,77,0,0
+1719903993294,77,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-1,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,77,0,0
+1719903993371,35,HTTP Request-1,200,OK,CollegeStudents 1-1,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,33,0,0
+1719903993388,83,HTTP Request,200,OK,CollegeStudents 1-6,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,6,6,https://badmintonsouq.in/main-category/mens,34,0,0
+1719903993388,34,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-6,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,34,0,0
+1719903993422,49,HTTP Request-1,200,OK,CollegeStudents 1-6,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,46,0,0
+1719903992925,581,HTTP Request,200,OK,CollegeStudents 1-8,text,false,"java.lang.NumberFormatException: For input string: """"",37329,272,5,5,https://badmintonsouq.in/main-category/mens,115,0,26
+1719903992925,115,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-8,text,true,,613,136,5,5,http://badmintonsouq.in/main-category/mens,115,0,26
+1719903993040,466,HTTP Request-1,200,OK,CollegeStudents 1-8,text,true,,36716,136,5,5,https://badmintonsouq.in/main-category/mens,428,0,390
+1719903993407,107,HTTP Request,200,OK,CollegeStudents 1-1,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,5,5,https://badmintonsouq.in/main-category/mens,69,0,0
+1719903993407,69,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-1,text,true,,612,136,5,5,http://badmintonsouq.in/main-category/mens,69,0,0
+1719903993476,38,HTTP Request-1,200,OK,CollegeStudents 1-1,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,36,0,0
+1719903992820,729,HTTP Request,200,OK,CollegeStudents 1-7,text,false,"java.lang.NumberFormatException: For input string: """"",37329,272,4,4,https://badmintonsouq.in/main-category/mens,218,0,21
+1719903992820,218,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-7,text,true,,613,136,4,4,http://badmintonsouq.in/main-category/mens,218,0,21
+1719903993039,510,HTTP Request-1,200,OK,CollegeStudents 1-7,text,true,,36716,136,4,4,https://badmintonsouq.in/main-category/mens,465,0,411
+1719903993021,548,HTTP Request,200,OK,CollegeStudents 1-9,text,false,"java.lang.NumberFormatException: For input string: """"",37329,272,4,4,https://badmintonsouq.in/main-category/mens,100,0,29
+1719903993021,100,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-9,text,true,,613,136,4,4,http://badmintonsouq.in/main-category/mens,100,0,29
+1719903993122,447,HTTP Request-1,200,OK,CollegeStudents 1-9,text,true,,36716,136,4,4,https://badmintonsouq.in/main-category/mens,426,0,402
+1719903993121,457,HTTP Request,200,OK,CollegeStudents 1-10,text,false,"java.lang.NumberFormatException: For input string: """"",37329,272,4,4,https://badmintonsouq.in/main-category/mens,197,0,47
+1719903993121,197,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-10,text,true,,613,136,4,4,http://badmintonsouq.in/main-category/mens,197,0,47
+1719903993319,259,HTTP Request-1,200,OK,CollegeStudents 1-10,text,true,,36716,136,4,4,https://badmintonsouq.in/main-category/mens,234,0,208
+1719903993507,75,HTTP Request,200,OK,CollegeStudents 1-8,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,4,4,https://badmintonsouq.in/main-category/mens,37,0,0
+1719903993507,37,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-8,text,true,,612,136,4,4,http://badmintonsouq.in/main-category/mens,37,0,0
+1719903993544,38,HTTP Request-1,200,OK,CollegeStudents 1-8,text,true,,36715,136,4,4,https://badmintonsouq.in/main-category/mens,36,0,0
+1719903993569,62,HTTP Request,200,OK,CollegeStudents 1-9,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,4,4,https://badmintonsouq.in/main-category/mens,38,0,0
+1719903993569,38,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-9,text,true,,612,136,4,4,http://badmintonsouq.in/main-category/mens,38,0,0
+1719903993607,24,HTTP Request-1,200,OK,CollegeStudents 1-9,text,true,,36715,136,4,4,https://badmintonsouq.in/main-category/mens,22,0,0
+1719903993550,85,HTTP Request,200,OK,CollegeStudents 1-7,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,4,4,https://badmintonsouq.in/main-category/mens,37,0,0
+1719903993550,37,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-7,text,true,,612,136,4,4,http://badmintonsouq.in/main-category/mens,37,0,0
+1719903993587,48,HTTP Request-1,200,OK,CollegeStudents 1-7,text,true,,36715,136,4,4,https://badmintonsouq.in/main-category/mens,46,0,0
+1719903993583,73,HTTP Request,200,OK,CollegeStudents 1-8,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,4,4,https://badmintonsouq.in/main-category/mens,35,0,0
+1719903993583,35,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-8,text,true,,612,136,4,4,http://badmintonsouq.in/main-category/mens,35,0,0
+1719903993618,38,HTTP Request-1,200,OK,CollegeStudents 1-8,text,true,,36715,136,4,4,https://badmintonsouq.in/main-category/mens,36,0,0
+1719903993579,92,HTTP Request,200,OK,CollegeStudents 1-10,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,4,4,https://badmintonsouq.in/main-category/mens,60,0,0
+1719903993579,60,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-10,text,true,,612,136,4,4,http://badmintonsouq.in/main-category/mens,60,0,0
+1719903993639,32,HTTP Request-1,200,OK,CollegeStudents 1-10,text,true,,36715,136,4,4,https://badmintonsouq.in/main-category/mens,30,0,0
+1719903993632,68,HTTP Request,200,OK,CollegeStudents 1-9,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,4,4,https://badmintonsouq.in/main-category/mens,44,0,0
+1719903993632,44,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-9,text,true,,612,136,4,4,http://badmintonsouq.in/main-category/mens,44,0,0
+1719903993676,24,HTTP Request-1,200,OK,CollegeStudents 1-9,text,true,,36715,136,4,4,https://badmintonsouq.in/main-category/mens,22,0,0
+1719903993636,82,HTTP Request,200,OK,CollegeStudents 1-7,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,4,4,https://badmintonsouq.in/main-category/mens,32,0,0
+1719903993636,32,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-7,text,true,,612,136,4,4,http://badmintonsouq.in/main-category/mens,32,0,0
+1719903993668,50,HTTP Request-1,200,OK,CollegeStudents 1-7,text,true,,36715,136,4,4,https://badmintonsouq.in/main-category/mens,48,0,0
+1719903993657,69,HTTP Request,200,OK,CollegeStudents 1-8,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,4,4,https://badmintonsouq.in/main-category/mens,31,0,0
+1719903993657,31,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-8,text,true,,612,136,4,4,http://badmintonsouq.in/main-category/mens,31,0,0
+1719903993688,38,HTTP Request-1,200,OK,CollegeStudents 1-8,text,true,,36715,136,4,4,https://badmintonsouq.in/main-category/mens,36,0,0
+1719903993672,90,HTTP Request,200,OK,CollegeStudents 1-10,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,4,4,https://badmintonsouq.in/main-category/mens,60,0,0
+1719903993672,60,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-10,text,true,,612,136,4,4,http://badmintonsouq.in/main-category/mens,60,0,0
+1719903993732,30,HTTP Request-1,200,OK,CollegeStudents 1-10,text,true,,36715,136,4,4,https://badmintonsouq.in/main-category/mens,27,0,0
+1719903993701,67,HTTP Request,200,OK,CollegeStudents 1-9,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,4,4,https://badmintonsouq.in/main-category/mens,43,0,0
+1719903993701,43,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-9,text,true,,612,136,4,4,http://badmintonsouq.in/main-category/mens,43,0,0
+1719903993744,24,HTTP Request-1,200,OK,CollegeStudents 1-9,text,true,,36715,136,4,4,https://badmintonsouq.in/main-category/mens,22,0,0
+1719903993719,80,HTTP Request,200,OK,CollegeStudents 1-7,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,4,4,https://badmintonsouq.in/main-category/mens,33,0,0
+1719903993719,33,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-7,text,true,,612,136,4,4,http://badmintonsouq.in/main-category/mens,33,0,0
+1719903993752,47,HTTP Request-1,200,OK,CollegeStudents 1-7,text,true,,36715,136,4,4,https://badmintonsouq.in/main-category/mens,45,0,0
+1719903993727,96,HTTP Request,200,OK,CollegeStudents 1-8,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,4,4,https://badmintonsouq.in/main-category/mens,45,0,0
+1719903993727,45,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-8,text,true,,612,136,4,4,http://badmintonsouq.in/main-category/mens,45,0,0
+1719903993772,51,HTTP Request-1,200,OK,CollegeStudents 1-8,text,true,,36715,136,4,4,https://badmintonsouq.in/main-category/mens,48,0,0
+1719903993769,70,HTTP Request,200,OK,CollegeStudents 1-9,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,3,3,https://badmintonsouq.in/main-category/mens,46,0,0
+1719903993769,46,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-9,text,true,,612,136,3,3,http://badmintonsouq.in/main-category/mens,46,0,0
+1719903993815,24,HTTP Request-1,200,OK,CollegeStudents 1-9,text,true,,36715,136,3,3,https://badmintonsouq.in/main-category/mens,22,0,0
+1719903993762,99,HTTP Request,200,OK,CollegeStudents 1-10,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,2,2,https://badmintonsouq.in/main-category/mens,70,0,0
+1719903993762,70,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-10,text,true,,612,136,2,2,http://badmintonsouq.in/main-category/mens,70,0,0
+1719903993832,29,HTTP Request-1,200,OK,CollegeStudents 1-10,text,true,,36715,136,2,2,https://badmintonsouq.in/main-category/mens,27,0,0
+1719903993800,76,HTTP Request,200,OK,CollegeStudents 1-7,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,2,2,https://badmintonsouq.in/main-category/mens,29,0,0
+1719903993800,29,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-7,text,true,,612,136,2,2,http://badmintonsouq.in/main-category/mens,29,0,0
+1719903993829,47,HTTP Request-1,200,OK,CollegeStudents 1-7,text,true,,36715,136,2,2,https://badmintonsouq.in/main-category/mens,45,0,0
+1719903993862,85,HTTP Request,200,OK,CollegeStudents 1-10,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,1,1,https://badmintonsouq.in/main-category/mens,56,0,0
+1719903993862,56,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-10,text,true,,612,136,1,1,http://badmintonsouq.in/main-category/mens,56,0,0
+1719903993918,29,HTTP Request-1,200,OK,CollegeStudents 1-10,text,true,,36715,136,1,1,https://badmintonsouq.in/main-category/mens,27,0,0
+1719904055331,47,HTTP Request,200,OK,CollegeStudents 1-1,text,false,"java.lang.NumberFormatException: For input string: """"",11663,136,1,1,http://badmintonsouq.in/main-category/mens,47,0,31
+1719904055380,178,HTTP Request,200,OK,CollegeStudents 1-1,text,false,"java.lang.NumberFormatException: For input string: """"",37329,272,3,3,https://badmintonsouq.in/main-category/mens,53,0,21
+1719904055380,53,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-1,text,true,,613,136,3,3,http://badmintonsouq.in/main-category/mens,53,0,21
+1719904055433,125,HTTP Request-1,200,OK,CollegeStudents 1-1,text,true,,36716,136,3,3,https://badmintonsouq.in/main-category/mens,97,0,67
+1719904055559,72,HTTP Request,200,OK,CollegeStudents 1-1,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,4,4,https://badmintonsouq.in/main-category/mens,40,0,0
+1719904055559,40,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-1,text,true,,612,136,4,4,http://badmintonsouq.in/main-category/mens,40,0,0
+1719904055599,32,HTTP Request-1,200,OK,CollegeStudents 1-1,text,true,,36715,136,4,4,https://badmintonsouq.in/main-category/mens,30,0,0
+1719904055632,64,HTTP Request,200,OK,CollegeStudents 1-1,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,4,4,https://badmintonsouq.in/main-category/mens,33,0,0
+1719904055632,33,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-1,text,true,,612,136,4,4,http://badmintonsouq.in/main-category/mens,33,0,0
+1719904055665,31,HTTP Request-1,200,OK,CollegeStudents 1-1,text,true,,36715,136,4,4,https://badmintonsouq.in/main-category/mens,29,0,0
+1719904055429,296,HTTP Request,200,OK,CollegeStudents 1-2,text,false,"java.lang.NumberFormatException: For input string: """"",37329,272,4,4,https://badmintonsouq.in/main-category/mens,107,0,49
+1719904055429,107,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-2,text,true,,613,136,4,4,http://badmintonsouq.in/main-category/mens,107,0,49
+1719904055536,189,HTTP Request-1,200,OK,CollegeStudents 1-2,text,true,,36716,136,4,4,https://badmintonsouq.in/main-category/mens,145,0,98
+1719904055697,71,HTTP Request,200,OK,CollegeStudents 1-1,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,5,5,https://badmintonsouq.in/main-category/mens,39,0,0
+1719904055697,39,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-1,text,true,,612,136,5,5,http://badmintonsouq.in/main-category/mens,39,0,0
+1719904055737,31,HTTP Request-1,200,OK,CollegeStudents 1-1,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,29,0,0
+1719904055530,285,HTTP Request,200,OK,CollegeStudents 1-3,text,false,"java.lang.NumberFormatException: For input string: """"",37329,272,4,4,https://badmintonsouq.in/main-category/mens,84,0,37
+1719904055530,84,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-3,text,true,,613,136,4,4,http://badmintonsouq.in/main-category/mens,84,0,37
+1719904055615,200,HTTP Request-1,200,OK,CollegeStudents 1-3,text,true,,36716,136,4,4,https://badmintonsouq.in/main-category/mens,156,0,110
+1719904055630,206,HTTP Request,200,OK,CollegeStudents 1-4,text,false,"java.lang.NumberFormatException: For input string: """"",37329,272,5,5,https://badmintonsouq.in/main-category/mens,61,0,25
+1719904055630,61,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-4,text,true,,613,136,5,5,http://badmintonsouq.in/main-category/mens,61,0,25
+1719904055692,144,HTTP Request-1,200,OK,CollegeStudents 1-4,text,true,,36716,136,5,5,https://badmintonsouq.in/main-category/mens,109,0,74
+1719904055726,113,HTTP Request,200,OK,CollegeStudents 1-2,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,5,5,https://badmintonsouq.in/main-category/mens,65,0,0
+1719904055726,65,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-2,text,true,,612,136,5,5,http://badmintonsouq.in/main-category/mens,65,0,0
+1719904055791,48,HTTP Request-1,200,OK,CollegeStudents 1-2,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,47,0,0
+1719904055816,102,HTTP Request,200,OK,CollegeStudents 1-3,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,5,5,https://badmintonsouq.in/main-category/mens,53,0,0
+1719904055816,53,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-3,text,true,,612,136,5,5,http://badmintonsouq.in/main-category/mens,53,0,0
+1719904055869,49,HTTP Request-1,200,OK,CollegeStudents 1-3,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,47,0,0
+1719904055837,87,HTTP Request,200,OK,CollegeStudents 1-4,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,5,5,https://badmintonsouq.in/main-category/mens,50,0,0
+1719904055837,50,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-4,text,true,,612,136,5,5,http://badmintonsouq.in/main-category/mens,50,0,0
+1719904055887,37,HTTP Request-1,200,OK,CollegeStudents 1-4,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,35,0,0
+1719904055840,119,HTTP Request,200,OK,CollegeStudents 1-2,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,6,6,https://badmintonsouq.in/main-category/mens,71,0,0
+1719904055840,71,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-2,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,71,0,0
+1719904055911,48,HTTP Request-1,200,OK,CollegeStudents 1-2,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,46,0,0
+1719904055925,80,HTTP Request,200,OK,CollegeStudents 1-4,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,6,6,https://badmintonsouq.in/main-category/mens,43,0,0
+1719904055925,43,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-4,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,43,0,0
+1719904055968,37,HTTP Request-1,200,OK,CollegeStudents 1-4,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,35,0,0
+1719904055919,103,HTTP Request,200,OK,CollegeStudents 1-3,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,6,6,https://badmintonsouq.in/main-category/mens,56,0,0
+1719904055919,56,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-3,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,56,0,0
+1719904055975,47,HTTP Request-1,200,OK,CollegeStudents 1-3,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,45,0,0
+1719904055731,320,HTTP Request,200,OK,CollegeStudents 1-5,text,false,"java.lang.NumberFormatException: For input string: """"",37329,272,7,7,https://badmintonsouq.in/main-category/mens,136,0,64
+1719904055731,136,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-5,text,true,,613,136,7,7,http://badmintonsouq.in/main-category/mens,136,0,64
+1719904055867,184,HTTP Request-1,200,OK,CollegeStudents 1-5,text,true,,36716,136,7,7,https://badmintonsouq.in/main-category/mens,140,0,94
+1719904055960,123,HTTP Request,200,OK,CollegeStudents 1-2,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,7,7,https://badmintonsouq.in/main-category/mens,72,0,0
+1719904055960,72,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-2,text,true,,612,136,7,7,http://badmintonsouq.in/main-category/mens,72,0,0
+1719904056032,51,HTTP Request-1,200,OK,CollegeStudents 1-2,text,true,,36715,136,7,7,https://badmintonsouq.in/main-category/mens,47,0,0
+1719904056006,78,HTTP Request,200,OK,CollegeStudents 1-4,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,7,7,https://badmintonsouq.in/main-category/mens,38,0,0
+1719904056006,38,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-4,text,true,,612,136,7,7,http://badmintonsouq.in/main-category/mens,38,0,0
+1719904056044,40,HTTP Request-1,200,OK,CollegeStudents 1-4,text,true,,36715,136,7,7,https://badmintonsouq.in/main-category/mens,38,0,0
+1719904056023,96,HTTP Request,200,OK,CollegeStudents 1-3,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,7,7,https://badmintonsouq.in/main-category/mens,49,0,0
+1719904056023,49,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-3,text,true,,612,136,7,7,http://badmintonsouq.in/main-category/mens,49,0,0
+1719904056072,47,HTTP Request-1,200,OK,CollegeStudents 1-3,text,true,,36715,136,7,7,https://badmintonsouq.in/main-category/mens,45,0,0
+1719904055833,326,HTTP Request,200,OK,CollegeStudents 1-6,text,false,"java.lang.NumberFormatException: For input string: """"",37329,272,8,8,https://badmintonsouq.in/main-category/mens,63,0,27
+1719904055833,63,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-6,text,true,,613,136,8,8,http://badmintonsouq.in/main-category/mens,63,0,27
+1719904055897,262,HTTP Request-1,200,OK,CollegeStudents 1-6,text,true,,36716,136,8,8,https://badmintonsouq.in/main-category/mens,216,0,169
+1719904056085,84,HTTP Request,200,OK,CollegeStudents 1-4,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,8,8,https://badmintonsouq.in/main-category/mens,44,0,0
+1719904056085,45,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-4,text,true,,612,136,8,8,http://badmintonsouq.in/main-category/mens,44,0,0
+1719904056130,39,HTTP Request-1,200,OK,CollegeStudents 1-4,text,true,,36715,136,8,8,https://badmintonsouq.in/main-category/mens,35,0,0
+1719904056052,126,HTTP Request,200,OK,CollegeStudents 1-5,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,7,7,https://badmintonsouq.in/main-category/mens,77,0,0
+1719904056052,78,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-5,text,true,,612,136,7,7,http://badmintonsouq.in/main-category/mens,77,0,0
+1719904056130,48,HTTP Request-1,200,OK,CollegeStudents 1-5,text,true,,36715,136,7,7,https://badmintonsouq.in/main-category/mens,46,0,0
+1719904056084,131,HTTP Request,200,OK,CollegeStudents 1-2,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,7,7,https://badmintonsouq.in/main-category/mens,71,0,0
+1719904056084,71,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-2,text,true,,612,136,7,7,http://badmintonsouq.in/main-category/mens,71,0,0
+1719904056155,60,HTTP Request-1,200,OK,CollegeStudents 1-2,text,true,,36715,136,7,7,https://badmintonsouq.in/main-category/mens,57,0,0
+1719904056120,108,HTTP Request,200,OK,CollegeStudents 1-3,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,6,6,https://badmintonsouq.in/main-category/mens,58,0,0
+1719904056120,58,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-3,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,58,0,0
+1719904056178,50,HTTP Request-1,200,OK,CollegeStudents 1-3,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,47,0,0
+1719904056160,101,HTTP Request,200,OK,CollegeStudents 1-6,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,6,6,https://badmintonsouq.in/main-category/mens,51,0,0
+1719904056160,51,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-6,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,51,0,0
+1719904056211,50,HTTP Request-1,200,OK,CollegeStudents 1-6,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,48,0,0
+1719904055926,348,HTTP Request,200,OK,CollegeStudents 1-7,text,false,"java.lang.NumberFormatException: For input string: """"",37329,272,6,6,https://badmintonsouq.in/main-category/mens,65,0,26
+1719904055926,65,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-7,text,true,,613,136,6,6,http://badmintonsouq.in/main-category/mens,65,0,26
+1719904055991,283,HTTP Request-1,200,OK,CollegeStudents 1-7,text,true,,36716,136,6,6,https://badmintonsouq.in/main-category/mens,256,0,227
+1719904056179,141,HTTP Request,200,OK,CollegeStudents 1-5,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,6,6,https://badmintonsouq.in/main-category/mens,93,0,0
+1719904056179,93,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-5,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,93,0,0
+1719904056272,48,HTTP Request-1,200,OK,CollegeStudents 1-5,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,46,0,0
+1719904056276,76,HTTP Request,200,OK,CollegeStudents 1-7,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,6,6,https://badmintonsouq.in/main-category/mens,44,0,0
+1719904056276,44,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-7,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,44,0,0
+1719904056320,32,HTTP Request-1,200,OK,CollegeStudents 1-7,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,29,0,0
+1719904056262,97,HTTP Request,200,OK,CollegeStudents 1-6,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,6,6,https://badmintonsouq.in/main-category/mens,48,0,0
+1719904056262,48,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-6,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,48,0,0
+1719904056310,49,HTTP Request-1,200,OK,CollegeStudents 1-6,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,47,0,0
+1719904056352,76,HTTP Request,200,OK,CollegeStudents 1-7,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,6,6,https://badmintonsouq.in/main-category/mens,45,0,0
+1719904056352,45,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-7,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,45,0,0
+1719904056398,30,HTTP Request-1,200,OK,CollegeStudents 1-7,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,28,0,0
+1719904056321,120,HTTP Request,200,OK,CollegeStudents 1-5,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,6,6,https://badmintonsouq.in/main-category/mens,73,0,0
+1719904056321,73,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-5,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,73,0,0
+1719904056394,47,HTTP Request-1,200,OK,CollegeStudents 1-5,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,46,0,0
+1719904056360,93,HTTP Request,200,OK,CollegeStudents 1-6,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,6,6,https://badmintonsouq.in/main-category/mens,44,0,0
+1719904056360,44,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-6,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,44,0,0
+1719904056404,49,HTTP Request-1,200,OK,CollegeStudents 1-6,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,46,0,0
+1719904056429,129,HTTP Request,200,OK,CollegeStudents 1-7,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,6,6,https://badmintonsouq.in/main-category/mens,97,0,0
+1719904056429,97,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-7,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,97,0,0
+1719904056526,32,HTTP Request-1,200,OK,CollegeStudents 1-7,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,30,0,0
+1719904056454,122,HTTP Request,200,OK,CollegeStudents 1-6,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,6,6,https://badmintonsouq.in/main-category/mens,72,0,0
+1719904056454,72,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-6,text,true,,612,136,6,6,http://badmintonsouq.in/main-category/mens,72,0,0
+1719904056526,50,HTTP Request-1,200,OK,CollegeStudents 1-6,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,48,0,0
+1719904056442,153,HTTP Request,200,OK,CollegeStudents 1-5,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,5,5,https://badmintonsouq.in/main-category/mens,106,0,0
+1719904056442,106,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-5,text,true,,612,136,5,5,http://badmintonsouq.in/main-category/mens,106,0,0
+1719904056548,47,HTTP Request-1,200,OK,CollegeStudents 1-5,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,45,0,0
+1719904056559,73,HTTP Request,200,OK,CollegeStudents 1-7,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,4,4,https://badmintonsouq.in/main-category/mens,42,0,0
+1719904056559,42,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-7,text,true,,612,136,4,4,http://badmintonsouq.in/main-category/mens,42,0,0
+1719904056601,31,HTTP Request-1,200,OK,CollegeStudents 1-7,text,true,,36715,136,4,4,https://badmintonsouq.in/main-category/mens,29,0,0
+1719904056032,646,HTTP Request,200,OK,CollegeStudents 1-8,text,false,"java.lang.NumberFormatException: For input string: """"",37329,272,3,3,https://badmintonsouq.in/main-category/mens,179,0,21
+1719904056032,179,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-8,text,true,,613,136,3,3,http://badmintonsouq.in/main-category/mens,179,0,21
+1719904056212,466,HTTP Request-1,200,OK,CollegeStudents 1-8,text,true,,36716,136,3,3,https://badmintonsouq.in/main-category/mens,440,0,401
+1719904056132,593,HTTP Request,200,OK,CollegeStudents 1-9,text,false,"java.lang.NumberFormatException: For input string: """"",37329,272,3,3,https://badmintonsouq.in/main-category/mens,129,0,46
+1719904056132,129,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-9,text,true,,613,136,3,3,http://badmintonsouq.in/main-category/mens,129,0,46
+1719904056262,463,HTTP Request-1,200,OK,CollegeStudents 1-9,text,true,,36716,136,3,3,https://badmintonsouq.in/main-category/mens,422,0,378
+1719904056679,65,HTTP Request,200,OK,CollegeStudents 1-8,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,3,3,https://badmintonsouq.in/main-category/mens,35,0,0
+1719904056679,35,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-8,text,true,,612,136,3,3,http://badmintonsouq.in/main-category/mens,35,0,0
+1719904056714,30,HTTP Request-1,200,OK,CollegeStudents 1-8,text,true,,36715,136,3,3,https://badmintonsouq.in/main-category/mens,28,0,0
+1719904056231,572,HTTP Request,200,OK,CollegeStudents 1-10,text,false,"java.lang.NumberFormatException: For input string: """"",37329,272,3,3,https://badmintonsouq.in/main-category/mens,395,0,49
+1719904056231,395,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-10,text,true,,613,136,3,3,http://badmintonsouq.in/main-category/mens,395,0,49
+1719904056626,177,HTTP Request-1,200,OK,CollegeStudents 1-10,text,true,,36716,136,3,3,https://badmintonsouq.in/main-category/mens,135,0,92
+1719904056745,63,HTTP Request,200,OK,CollegeStudents 1-8,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,3,3,https://badmintonsouq.in/main-category/mens,33,0,0
+1719904056745,33,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-8,text,true,,612,136,3,3,http://badmintonsouq.in/main-category/mens,33,0,0
+1719904056778,30,HTTP Request-1,200,OK,CollegeStudents 1-8,text,true,,36715,136,3,3,https://badmintonsouq.in/main-category/mens,28,0,0
+1719904056726,106,HTTP Request,200,OK,CollegeStudents 1-9,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,3,3,https://badmintonsouq.in/main-category/mens,58,0,0
+1719904056726,58,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-9,text,true,,612,136,3,3,http://badmintonsouq.in/main-category/mens,58,0,0
+1719904056784,48,HTTP Request-1,200,OK,CollegeStudents 1-9,text,true,,36715,136,3,3,https://badmintonsouq.in/main-category/mens,45,0,0
+1719904056809,71,HTTP Request,200,OK,CollegeStudents 1-8,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,3,3,https://badmintonsouq.in/main-category/mens,41,0,0
+1719904056809,41,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-8,text,true,,612,136,3,3,http://badmintonsouq.in/main-category/mens,41,0,0
+1719904056850,30,HTTP Request-1,200,OK,CollegeStudents 1-8,text,true,,36715,136,3,3,https://badmintonsouq.in/main-category/mens,28,0,0
+1719904056804,118,HTTP Request,200,OK,CollegeStudents 1-10,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,3,3,https://badmintonsouq.in/main-category/mens,72,0,0
+1719904056804,72,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-10,text,true,,612,136,3,3,http://badmintonsouq.in/main-category/mens,72,0,0
+1719904056876,46,HTTP Request-1,200,OK,CollegeStudents 1-10,text,true,,36715,136,3,3,https://badmintonsouq.in/main-category/mens,44,0,0
+1719904056832,104,HTTP Request,200,OK,CollegeStudents 1-9,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,3,3,https://badmintonsouq.in/main-category/mens,61,0,0
+1719904056832,61,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-9,text,true,,612,136,3,3,http://badmintonsouq.in/main-category/mens,61,0,0
+1719904056893,43,HTTP Request-1,200,OK,CollegeStudents 1-9,text,true,,36715,136,3,3,https://badmintonsouq.in/main-category/mens,41,0,0
+1719904056881,63,HTTP Request,200,OK,CollegeStudents 1-8,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,3,3,https://badmintonsouq.in/main-category/mens,33,0,0
+1719904056881,33,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-8,text,true,,612,136,3,3,http://badmintonsouq.in/main-category/mens,33,0,0
+1719904056914,30,HTTP Request-1,200,OK,CollegeStudents 1-8,text,true,,36715,136,3,3,https://badmintonsouq.in/main-category/mens,27,0,0
+1719904056923,108,HTTP Request,200,OK,CollegeStudents 1-10,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,2,2,https://badmintonsouq.in/main-category/mens,62,0,0
+1719904056923,62,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-10,text,true,,612,136,2,2,http://badmintonsouq.in/main-category/mens,62,0,0
+1719904056985,46,HTTP Request-1,200,OK,CollegeStudents 1-10,text,true,,36715,136,2,2,https://badmintonsouq.in/main-category/mens,43,0,0
+1719904056937,106,HTTP Request,200,OK,CollegeStudents 1-9,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,2,2,https://badmintonsouq.in/main-category/mens,67,0,0
+1719904056937,67,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-9,text,true,,612,136,2,2,http://badmintonsouq.in/main-category/mens,67,0,0
+1719904057004,39,HTTP Request-1,200,OK,CollegeStudents 1-9,text,true,,36715,136,2,2,https://badmintonsouq.in/main-category/mens,36,0,0
+1719904057031,107,HTTP Request,200,OK,CollegeStudents 1-10,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,2,2,https://badmintonsouq.in/main-category/mens,61,0,0
+1719904057031,61,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-10,text,true,,612,136,2,2,http://badmintonsouq.in/main-category/mens,61,0,0
+1719904057092,46,HTTP Request-1,200,OK,CollegeStudents 1-10,text,true,,36715,136,2,2,https://badmintonsouq.in/main-category/mens,44,0,0
+1719904057043,106,HTTP Request,200,OK,CollegeStudents 1-9,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,2,2,https://badmintonsouq.in/main-category/mens,60,0,0
+1719904057043,60,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-9,text,true,,612,136,2,2,http://badmintonsouq.in/main-category/mens,60,0,0
+1719904057104,45,HTTP Request-1,200,OK,CollegeStudents 1-9,text,true,,36715,136,2,2,https://badmintonsouq.in/main-category/mens,42,0,0
+1719904057139,125,HTTP Request,200,OK,CollegeStudents 1-10,text,false,"java.lang.NumberFormatException: For input string: """"",37327,272,1,1,https://badmintonsouq.in/main-category/mens,79,0,0
+1719904057139,79,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-10,text,true,,612,136,1,1,http://badmintonsouq.in/main-category/mens,79,0,0
+1719904057218,46,HTTP Request-1,200,OK,CollegeStudents 1-10,text,true,,36715,136,1,1,https://badmintonsouq.in/main-category/mens,43,0,0
+1719904263975,235,HTTP Request,200,OK,CollegeStudents 1-2,text,false,"The result was the wrong size: It was 1,736 bytes, but should have been less than 1,047 bytes.",1736,276,4,4,https://badmintonsouq.in/main-category/mens,127,0,28
+1719904263975,127,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-2,text,true,,617,140,4,4,http://www.badmintonsouq.in/main-category/mens,127,0,28
+1719904264102,108,HTTP Request-1,200,OK,CollegeStudents 1-2,text,true,,1119,136,4,4,https://badmintonsouq.in/main-category/mens,108,0,103
+1719904263873,509,HTTP Request,200,OK,CollegeStudents 1-1,text,false,"The result was the wrong size: It was 11,671 bytes, but should have been less than 1,047 bytes.",11671,140,6,6,http://www.badmintonsouq.in/main-category/mens,277,0,125
+1719904264212,319,HTTP Request,200,OK,CollegeStudents 1-2,text,false,"The result was the wrong size: It was 37,332 bytes, but should have been less than 1,047 bytes.",37332,276,7,7,https://badmintonsouq.in/main-category/mens,204,0,0
+1719904264212,204,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-2,text,true,,616,140,7,7,http://www.badmintonsouq.in/main-category/mens,204,0,0
+1719904264416,115,HTTP Request-1,200,OK,CollegeStudents 1-2,text,true,,36716,136,7,7,https://badmintonsouq.in/main-category/mens,88,0,60
+1719904264172,370,HTTP Request,200,OK,CollegeStudents 1-4,text,false,"The result was the wrong size: It was 37,333 bytes, but should have been less than 1,047 bytes.",37333,276,7,7,https://badmintonsouq.in/main-category/mens,233,0,33
+1719904264172,233,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-4,text,true,,617,140,7,7,http://www.badmintonsouq.in/main-category/mens,233,0,33
+1719904264406,136,HTTP Request-1,200,OK,CollegeStudents 1-4,text,true,,36716,136,7,7,https://badmintonsouq.in/main-category/mens,104,0,70
+1719904264075,524,HTTP Request,200,OK,CollegeStudents 1-3,text,false,"The result was the wrong size: It was 37,333 bytes, but should have been less than 1,047 bytes.",37333,276,8,8,https://badmintonsouq.in/main-category/mens,311,0,22
+1719904264075,311,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-3,text,true,,617,140,8,8,http://www.badmintonsouq.in/main-category/mens,311,0,22
+1719904264386,213,HTTP Request-1,200,OK,CollegeStudents 1-3,text,true,,36716,136,8,8,https://badmintonsouq.in/main-category/mens,164,0,115
+1719904264531,73,HTTP Request,200,OK,CollegeStudents 1-2,text,false,"The result was the wrong size: It was 37,331 bytes, but should have been less than 1,047 bytes.",37331,276,8,8,https://badmintonsouq.in/main-category/mens,43,0,0
+1719904264531,43,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-2,text,true,,616,140,8,8,http://www.badmintonsouq.in/main-category/mens,43,0,0
+1719904264574,30,HTTP Request-1,200,OK,CollegeStudents 1-2,text,true,,36715,136,8,8,https://badmintonsouq.in/main-category/mens,28,0,0
+1719904264382,225,HTTP Request,200,OK,CollegeStudents 1-1,text,false,"The result was the wrong size: It was 37,333 bytes, but should have been less than 1,047 bytes.",37333,276,8,8,https://badmintonsouq.in/main-category/mens,111,0,50
+1719904264382,111,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-1,text,true,,617,140,8,8,http://www.badmintonsouq.in/main-category/mens,111,0,50
+1719904264494,113,HTTP Request-1,200,OK,CollegeStudents 1-1,text,true,,36716,136,8,8,https://badmintonsouq.in/main-category/mens,86,0,59
+1719904264542,82,HTTP Request,200,OK,CollegeStudents 1-4,text,false,"The result was the wrong size: It was 37,331 bytes, but should have been less than 1,047 bytes.",37331,276,8,8,https://badmintonsouq.in/main-category/mens,47,0,0
+1719904264542,47,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-4,text,true,,616,140,8,8,http://www.badmintonsouq.in/main-category/mens,47,0,0
+1719904264589,35,HTTP Request-1,200,OK,CollegeStudents 1-4,text,true,,36715,136,8,8,https://badmintonsouq.in/main-category/mens,34,0,0
+1719904264273,363,HTTP Request,200,OK,CollegeStudents 1-5,text,false,"The result was the wrong size: It was 37,333 bytes, but should have been less than 1,047 bytes.",37333,276,8,8,https://badmintonsouq.in/main-category/mens,163,0,47
+1719904264273,163,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-5,text,true,,617,140,8,8,http://www.badmintonsouq.in/main-category/mens,163,0,47
+1719904264437,199,HTTP Request-1,200,OK,CollegeStudents 1-5,text,true,,36716,136,8,8,https://badmintonsouq.in/main-category/mens,151,0,102
+1719904264471,176,HTTP Request,200,OK,CollegeStudents 1-7,text,false,"The result was the wrong size: It was 37,333 bytes, but should have been less than 1,047 bytes.",37333,276,8,8,https://badmintonsouq.in/main-category/mens,64,0,26
+1719904264471,64,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-7,text,true,,617,140,8,8,http://www.badmintonsouq.in/main-category/mens,64,0,26
+1719904264535,112,HTTP Request-1,200,OK,CollegeStudents 1-7,text,true,,36716,136,8,8,https://badmintonsouq.in/main-category/mens,86,0,58
+1719904264372,314,HTTP Request,200,OK,CollegeStudents 1-6,text,false,"The result was the wrong size: It was 37,333 bytes, but should have been less than 1,047 bytes.",37333,276,9,9,https://badmintonsouq.in/main-category/mens,109,0,72
+1719904264372,109,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-6,text,true,,617,140,9,9,http://www.badmintonsouq.in/main-category/mens,109,0,72
+1719904264482,204,HTTP Request-1,200,OK,CollegeStudents 1-6,text,true,,36716,136,9,9,https://badmintonsouq.in/main-category/mens,144,0,97
+1719904264599,107,HTTP Request,200,OK,CollegeStudents 1-3,text,false,"The result was the wrong size: It was 37,331 bytes, but should have been less than 1,047 bytes.",37331,276,9,9,https://badmintonsouq.in/main-category/mens,46,0,0
+1719904264599,46,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-3,text,true,,616,140,9,9,http://www.badmintonsouq.in/main-category/mens,46,0,0
+1719904264645,61,HTTP Request-1,200,OK,CollegeStudents 1-3,text,true,,36715,136,9,9,https://badmintonsouq.in/main-category/mens,59,0,0
+1719904264605,120,HTTP Request,200,OK,CollegeStudents 1-2,text,false,"The result was the wrong size: It was 37,331 bytes, but should have been less than 1,047 bytes.",37331,276,9,9,https://badmintonsouq.in/main-category/mens,76,0,0
+1719904264605,76,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-2,text,true,,616,140,9,9,http://www.badmintonsouq.in/main-category/mens,76,0,0
+1719904264681,44,HTTP Request-1,200,OK,CollegeStudents 1-2,text,true,,36715,136,9,9,https://badmintonsouq.in/main-category/mens,42,0,0
+1719904264625,104,HTTP Request,200,OK,CollegeStudents 1-4,text,false,"The result was the wrong size: It was 37,331 bytes, but should have been less than 1,047 bytes.",37331,276,9,9,https://badmintonsouq.in/main-category/mens,57,0,0
+1719904264625,57,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-4,text,true,,616,140,9,9,http://www.badmintonsouq.in/main-category/mens,57,0,0
+1719904264682,47,HTTP Request-1,200,OK,CollegeStudents 1-4,text,true,,36715,136,9,9,https://badmintonsouq.in/main-category/mens,44,0,0
+1719904264607,124,HTTP Request,200,OK,CollegeStudents 1-1,text,false,"The result was the wrong size: It was 37,331 bytes, but should have been less than 1,047 bytes.",37331,276,9,9,https://badmintonsouq.in/main-category/mens,77,0,0
+1719904264607,77,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-1,text,true,,616,140,9,9,http://www.badmintonsouq.in/main-category/mens,77,0,0
+1719904264684,47,HTTP Request-1,200,OK,CollegeStudents 1-1,text,true,,36715,136,9,9,https://badmintonsouq.in/main-category/mens,45,0,0
+1719904264647,105,HTTP Request,200,OK,CollegeStudents 1-7,text,false,"The result was the wrong size: It was 37,331 bytes, but should have been less than 1,047 bytes.",37331,276,9,9,https://badmintonsouq.in/main-category/mens,60,0,0
+1719904264647,60,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-7,text,true,,616,140,9,9,http://www.badmintonsouq.in/main-category/mens,60,0,0
+1719904264707,45,HTTP Request-1,200,OK,CollegeStudents 1-7,text,true,,36715,136,9,9,https://badmintonsouq.in/main-category/mens,43,0,0
+1719904264636,135,HTTP Request,200,OK,CollegeStudents 1-5,text,false,"The result was the wrong size: It was 37,331 bytes, but should have been less than 1,047 bytes.",37331,276,9,9,https://badmintonsouq.in/main-category/mens,67,0,0
+1719904264636,67,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-5,text,true,,616,140,9,9,http://www.badmintonsouq.in/main-category/mens,67,0,0
+1719904264703,68,HTTP Request-1,200,OK,CollegeStudents 1-5,text,true,,36715,136,9,9,https://badmintonsouq.in/main-category/mens,66,0,0
+1719904264687,107,HTTP Request,200,OK,CollegeStudents 1-6,text,false,"The result was the wrong size: It was 37,331 bytes, but should have been less than 1,047 bytes.",37331,276,10,10,https://badmintonsouq.in/main-category/mens,49,0,0
+1719904264687,49,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-6,text,true,,616,140,10,10,http://www.badmintonsouq.in/main-category/mens,49,0,0
+1719904264736,58,HTTP Request-1,200,OK,CollegeStudents 1-6,text,true,,36715,136,10,10,https://badmintonsouq.in/main-category/mens,56,0,0
+1719904264725,81,HTTP Request,200,OK,CollegeStudents 1-2,text,false,"The result was the wrong size: It was 37,331 bytes, but should have been less than 1,047 bytes.",37331,276,10,10,https://badmintonsouq.in/main-category/mens,51,0,0
+1719904264725,51,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-2,text,true,,616,140,10,10,http://www.badmintonsouq.in/main-category/mens,51,0,0
+1719904264776,30,HTTP Request-1,200,OK,CollegeStudents 1-2,text,true,,36715,136,10,10,https://badmintonsouq.in/main-category/mens,28,0,0
+1719904264729,87,HTTP Request,200,OK,CollegeStudents 1-4,text,false,"The result was the wrong size: It was 37,331 bytes, but should have been less than 1,047 bytes.",37331,276,9,9,https://badmintonsouq.in/main-category/mens,52,0,0
+1719904264729,52,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-4,text,true,,616,140,9,9,http://www.badmintonsouq.in/main-category/mens,52,0,0
+1719904264781,35,HTTP Request-1,200,OK,CollegeStudents 1-4,text,true,,36715,136,9,9,https://badmintonsouq.in/main-category/mens,33,0,0
+1719904264707,115,HTTP Request,200,OK,CollegeStudents 1-3,text,false,"The result was the wrong size: It was 37,331 bytes, but should have been less than 1,047 bytes.",37331,276,9,9,https://badmintonsouq.in/main-category/mens,42,0,0
+1719904264707,42,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-3,text,true,,616,140,9,9,http://www.badmintonsouq.in/main-category/mens,42,0,0
+1719904264749,73,HTTP Request-1,200,OK,CollegeStudents 1-3,text,true,,36715,136,9,9,https://badmintonsouq.in/main-category/mens,71,0,0
+1719904264753,73,HTTP Request,200,OK,CollegeStudents 1-7,text,false,"The result was the wrong size: It was 37,331 bytes, but should have been less than 1,047 bytes.",37331,276,9,9,https://badmintonsouq.in/main-category/mens,42,0,0
+1719904264753,42,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-7,text,true,,616,140,9,9,http://www.badmintonsouq.in/main-category/mens,42,0,0
+1719904264795,31,HTTP Request-1,200,OK,CollegeStudents 1-7,text,true,,36715,136,9,9,https://badmintonsouq.in/main-category/mens,28,0,0
+1719904264732,117,HTTP Request,200,OK,CollegeStudents 1-1,text,false,"The result was the wrong size: It was 37,331 bytes, but should have been less than 1,047 bytes.",37331,276,9,9,https://badmintonsouq.in/main-category/mens,85,0,0
+1719904264732,85,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-1,text,true,,616,140,9,9,http://www.badmintonsouq.in/main-category/mens,85,0,0
+1719904264817,32,HTTP Request-1,200,OK,CollegeStudents 1-1,text,true,,36715,136,9,9,https://badmintonsouq.in/main-category/mens,30,0,0
+1719904264772,112,HTTP Request,200,OK,CollegeStudents 1-5,text,false,"The result was the wrong size: It was 37,331 bytes, but should have been less than 1,047 bytes.",37331,276,9,9,https://badmintonsouq.in/main-category/mens,60,0,0
+1719904264772,60,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-5,text,true,,616,140,9,9,http://www.badmintonsouq.in/main-category/mens,60,0,0
+1719904264832,52,HTTP Request-1,200,OK,CollegeStudents 1-5,text,true,,36715,136,9,9,https://badmintonsouq.in/main-category/mens,48,0,0
+1719904264795,90,HTTP Request,200,OK,CollegeStudents 1-6,text,false,"The result was the wrong size: It was 37,331 bytes, but should have been less than 1,047 bytes.",37331,276,9,9,https://badmintonsouq.in/main-category/mens,37,0,0
+1719904264795,37,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-6,text,true,,616,140,9,9,http://www.badmintonsouq.in/main-category/mens,37,0,0
+1719904264832,53,HTTP Request-1,200,OK,CollegeStudents 1-6,text,true,,36715,136,9,9,https://badmintonsouq.in/main-category/mens,49,0,0
+1719904264826,67,HTTP Request,200,OK,CollegeStudents 1-7,text,false,"The result was the wrong size: It was 37,331 bytes, but should have been less than 1,047 bytes.",37331,276,9,9,https://badmintonsouq.in/main-category/mens,38,0,0
+1719904264826,38,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-7,text,true,,616,140,9,9,http://www.badmintonsouq.in/main-category/mens,38,0,0
+1719904264864,29,HTTP Request-1,200,OK,CollegeStudents 1-7,text,true,,36715,136,9,9,https://badmintonsouq.in/main-category/mens,27,0,0
+1719904264817,82,HTTP Request,200,OK,CollegeStudents 1-4,text,false,"The result was the wrong size: It was 37,331 bytes, but should have been less than 1,047 bytes.",37331,276,9,9,https://badmintonsouq.in/main-category/mens,46,0,0
+1719904264817,46,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-4,text,true,,616,140,9,9,http://www.badmintonsouq.in/main-category/mens,46,0,0
+1719904264863,36,HTTP Request-1,200,OK,CollegeStudents 1-4,text,true,,36715,136,9,9,https://badmintonsouq.in/main-category/mens,33,0,0
+1719904264573,328,HTTP Request,200,OK,CollegeStudents 1-8,text,false,"The result was the wrong size: It was 37,333 bytes, but should have been less than 1,047 bytes.",37333,276,8,8,https://badmintonsouq.in/main-category/mens,111,0,49
+1719904264573,111,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-8,text,true,,617,140,8,8,http://www.badmintonsouq.in/main-category/mens,111,0,49
+1719904264684,217,HTTP Request-1,200,OK,CollegeStudents 1-8,text,true,,36716,136,8,8,https://badmintonsouq.in/main-category/mens,189,0,160
+1719904264823,89,HTTP Request,200,OK,CollegeStudents 1-3,text,false,"The result was the wrong size: It was 37,331 bytes, but should have been less than 1,047 bytes.",37331,276,8,8,https://badmintonsouq.in/main-category/mens,37,0,0
+1719904264823,37,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-3,text,true,,616,140,8,8,http://www.badmintonsouq.in/main-category/mens,37,0,0
+1719904264861,51,HTTP Request-1,200,OK,CollegeStudents 1-3,text,true,,36715,136,8,8,https://badmintonsouq.in/main-category/mens,49,0,0
+1719904264849,91,HTTP Request,200,OK,CollegeStudents 1-1,text,false,"The result was the wrong size: It was 37,331 bytes, but should have been less than 1,047 bytes.",37331,276,8,8,https://badmintonsouq.in/main-category/mens,62,0,0
+1719904264849,62,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-1,text,true,,616,140,8,8,http://www.badmintonsouq.in/main-category/mens,62,0,0
+1719904264911,29,HTTP Request-1,200,OK,CollegeStudents 1-1,text,true,,36715,136,8,8,https://badmintonsouq.in/main-category/mens,27,0,0
+1719904264894,94,HTTP Request,200,OK,CollegeStudents 1-7,text,false,"The result was the wrong size: It was 37,331 bytes, but should have been less than 1,047 bytes.",37331,276,7,7,https://badmintonsouq.in/main-category/mens,63,0,0
+1719904264894,63,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-7,text,true,,616,140,7,7,http://www.badmintonsouq.in/main-category/mens,63,0,0
+1719904264957,31,HTTP Request-1,200,OK,CollegeStudents 1-7,text,true,,36715,136,7,7,https://badmintonsouq.in/main-category/mens,26,0,0
+1719904264885,104,HTTP Request,200,OK,CollegeStudents 1-6,text,false,"The result was the wrong size: It was 37,331 bytes, but should have been less than 1,047 bytes.",37331,276,6,6,https://badmintonsouq.in/main-category/mens,52,0,0
+1719904264885,52,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-6,text,true,,616,140,6,6,http://www.badmintonsouq.in/main-category/mens,52,0,0
+1719904264937,52,HTTP Request-1,200,OK,CollegeStudents 1-6,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,48,0,0
+1719904264913,92,HTTP Request,200,OK,CollegeStudents 1-3,text,false,"The result was the wrong size: It was 37,331 bytes, but should have been less than 1,047 bytes.",37331,276,6,6,https://badmintonsouq.in/main-category/mens,40,0,0
+1719904264913,40,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-3,text,true,,616,140,6,6,http://www.badmintonsouq.in/main-category/mens,40,0,0
+1719904264953,52,HTTP Request-1,200,OK,CollegeStudents 1-3,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,50,0,0
+1719904264885,123,HTTP Request,200,OK,CollegeStudents 1-5,text,false,"The result was the wrong size: It was 37,331 bytes, but should have been less than 1,047 bytes.",37331,276,5,5,https://badmintonsouq.in/main-category/mens,69,0,0
+1719904264885,69,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-5,text,true,,616,140,5,5,http://www.badmintonsouq.in/main-category/mens,69,0,0
+1719904264954,54,HTTP Request-1,200,OK,CollegeStudents 1-5,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,52,0,0
+1719904264902,109,HTTP Request,200,OK,CollegeStudents 1-8,text,false,"The result was the wrong size: It was 37,331 bytes, but should have been less than 1,047 bytes.",37331,276,5,5,https://badmintonsouq.in/main-category/mens,78,0,0
+1719904264902,78,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-8,text,true,,616,140,5,5,http://www.badmintonsouq.in/main-category/mens,78,0,0
+1719904264980,31,HTTP Request-1,200,OK,CollegeStudents 1-8,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,29,0,0
+1719904264672,358,HTTP Request,200,OK,CollegeStudents 1-9,text,false,"The result was the wrong size: It was 37,333 bytes, but should have been less than 1,047 bytes.",37333,276,5,5,https://badmintonsouq.in/main-category/mens,186,0,59
+1719904264672,186,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-9,text,true,,617,140,5,5,http://www.badmintonsouq.in/main-category/mens,186,0,59
+1719904264859,171,HTTP Request-1,200,OK,CollegeStudents 1-9,text,true,,36716,136,5,5,https://badmintonsouq.in/main-category/mens,131,0,89
+1719904264989,91,HTTP Request,200,OK,CollegeStudents 1-6,text,false,"The result was the wrong size: It was 37,331 bytes, but should have been less than 1,047 bytes.",37331,276,5,5,https://badmintonsouq.in/main-category/mens,42,0,0
+1719904264989,42,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-6,text,true,,616,140,5,5,http://www.badmintonsouq.in/main-category/mens,42,0,0
+1719904265031,49,HTTP Request-1,200,OK,CollegeStudents 1-6,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,47,0,0
+1719904264773,322,HTTP Request,200,OK,CollegeStudents 1-10,text,false,"The result was the wrong size: It was 37,333 bytes, but should have been less than 1,047 bytes.",37333,276,4,4,https://badmintonsouq.in/main-category/mens,159,0,34
+1719904264773,159,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-10,text,true,,617,140,4,4,http://www.badmintonsouq.in/main-category/mens,159,0,34
+1719904264932,163,HTTP Request-1,200,OK,CollegeStudents 1-10,text,true,,36716,136,4,4,https://badmintonsouq.in/main-category/mens,129,0,94
+1719904265012,92,HTTP Request,200,OK,CollegeStudents 1-8,text,false,"The result was the wrong size: It was 37,331 bytes, but should have been less than 1,047 bytes.",37331,276,4,4,https://badmintonsouq.in/main-category/mens,60,0,0
+1719904265012,60,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-8,text,true,,616,140,4,4,http://www.badmintonsouq.in/main-category/mens,60,0,0
+1719904265072,32,HTTP Request-1,200,OK,CollegeStudents 1-8,text,true,,36715,136,4,4,https://badmintonsouq.in/main-category/mens,29,0,0
+1719904265009,115,HTTP Request,200,OK,CollegeStudents 1-5,text,false,"The result was the wrong size: It was 37,331 bytes, but should have been less than 1,047 bytes.",37331,276,4,4,https://badmintonsouq.in/main-category/mens,63,0,0
+1719904265009,63,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-5,text,true,,616,140,4,4,http://www.badmintonsouq.in/main-category/mens,63,0,0
+1719904265072,52,HTTP Request-1,200,OK,CollegeStudents 1-5,text,true,,36715,136,4,4,https://badmintonsouq.in/main-category/mens,50,0,0
+1719904265031,117,HTTP Request,200,OK,CollegeStudents 1-9,text,false,"The result was the wrong size: It was 37,331 bytes, but should have been less than 1,047 bytes.",37331,276,3,3,https://badmintonsouq.in/main-category/mens,77,0,0
+1719904265031,77,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-9,text,true,,616,140,3,3,http://www.badmintonsouq.in/main-category/mens,77,0,0
+1719904265108,40,HTTP Request-1,200,OK,CollegeStudents 1-9,text,true,,36715,136,3,3,https://badmintonsouq.in/main-category/mens,37,0,0
+1719904265095,79,HTTP Request,200,OK,CollegeStudents 1-10,text,false,"The result was the wrong size: It was 37,331 bytes, but should have been less than 1,047 bytes.",37331,276,3,3,https://badmintonsouq.in/main-category/mens,40,0,0
+1719904265095,40,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-10,text,true,,616,140,3,3,http://www.badmintonsouq.in/main-category/mens,40,0,0
+1719904265135,39,HTTP Request-1,200,OK,CollegeStudents 1-10,text,true,,36715,136,3,3,https://badmintonsouq.in/main-category/mens,36,0,0
+1719904265104,88,HTTP Request,200,OK,CollegeStudents 1-8,text,false,"The result was the wrong size: It was 37,331 bytes, but should have been less than 1,047 bytes.",37331,276,3,3,https://badmintonsouq.in/main-category/mens,57,0,0
+1719904265104,57,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-8,text,true,,616,140,3,3,http://www.badmintonsouq.in/main-category/mens,57,0,0
+1719904265161,31,HTTP Request-1,200,OK,CollegeStudents 1-8,text,true,,36715,136,3,3,https://badmintonsouq.in/main-category/mens,29,0,0
+1719904265148,99,HTTP Request,200,OK,CollegeStudents 1-9,text,false,"The result was the wrong size: It was 37,331 bytes, but should have been less than 1,047 bytes.",37331,276,3,3,https://badmintonsouq.in/main-category/mens,59,0,0
+1719904265148,59,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-9,text,true,,616,140,3,3,http://www.badmintonsouq.in/main-category/mens,59,0,0
+1719904265207,40,HTTP Request-1,200,OK,CollegeStudents 1-9,text,true,,36715,136,3,3,https://badmintonsouq.in/main-category/mens,37,0,0
+1719904265174,77,HTTP Request,200,OK,CollegeStudents 1-10,text,false,"The result was the wrong size: It was 37,331 bytes, but should have been less than 1,047 bytes.",37331,276,3,3,https://badmintonsouq.in/main-category/mens,40,0,0
+1719904265174,40,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-10,text,true,,616,140,3,3,http://www.badmintonsouq.in/main-category/mens,40,0,0
+1719904265214,37,HTTP Request-1,200,OK,CollegeStudents 1-10,text,true,,36715,136,3,3,https://badmintonsouq.in/main-category/mens,35,0,0
+1719904265192,90,HTTP Request,200,OK,CollegeStudents 1-8,text,false,"The result was the wrong size: It was 37,331 bytes, but should have been less than 1,047 bytes.",37331,276,3,3,https://badmintonsouq.in/main-category/mens,59,0,0
+1719904265192,59,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-8,text,true,,616,140,3,3,http://www.badmintonsouq.in/main-category/mens,59,0,0
+1719904265251,31,HTTP Request-1,200,OK,CollegeStudents 1-8,text,true,,36715,136,3,3,https://badmintonsouq.in/main-category/mens,29,0,0
+1719904265252,77,HTTP Request,200,OK,CollegeStudents 1-10,text,false,"The result was the wrong size: It was 37,331 bytes, but should have been less than 1,047 bytes.",37331,276,2,2,https://badmintonsouq.in/main-category/mens,40,0,0
+1719904265252,40,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-10,text,true,,616,140,2,2,http://www.badmintonsouq.in/main-category/mens,40,0,0
+1719904265292,37,HTTP Request-1,200,OK,CollegeStudents 1-10,text,true,,36715,136,2,2,https://badmintonsouq.in/main-category/mens,35,0,0
+1719904265247,103,HTTP Request,200,OK,CollegeStudents 1-9,text,false,"The result was the wrong size: It was 37,331 bytes, but should have been less than 1,047 bytes.",37331,276,2,2,https://badmintonsouq.in/main-category/mens,63,0,0
+1719904265247,63,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-9,text,true,,616,140,2,2,http://www.badmintonsouq.in/main-category/mens,63,0,0
+1719904265310,40,HTTP Request-1,200,OK,CollegeStudents 1-9,text,true,,36715,136,2,2,https://badmintonsouq.in/main-category/mens,38,0,0
+1719904265329,77,HTTP Request,200,OK,CollegeStudents 1-10,text,false,"The result was the wrong size: It was 37,331 bytes, but should have been less than 1,047 bytes.",37331,276,2,2,https://badmintonsouq.in/main-category/mens,40,0,0
+1719904265329,40,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-10,text,true,,616,140,2,2,http://www.badmintonsouq.in/main-category/mens,40,0,0
+1719904265369,37,HTTP Request-1,200,OK,CollegeStudents 1-10,text,true,,36715,136,2,2,https://badmintonsouq.in/main-category/mens,35,0,0
+1719904265350,100,HTTP Request,200,OK,CollegeStudents 1-9,text,false,"The result was the wrong size: It was 37,331 bytes, but should have been less than 1,047 bytes.",37331,276,1,1,https://badmintonsouq.in/main-category/mens,60,0,0
+1719904265350,60,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-9,text,true,,616,140,1,1,http://www.badmintonsouq.in/main-category/mens,60,0,0
+1719904265411,39,HTTP Request-1,200,OK,CollegeStudents 1-9,text,true,,36715,136,1,1,https://badmintonsouq.in/main-category/mens,37,0,0
+1719904349331,79,HTTP Request,200,OK,CollegeStudents 1-1,text,true,,11671,140,1,1,http://www.badmintonsouq.in/main-category/mens,79,0,63
+1719904349445,131,HTTP Request,200,OK,CollegeStudents 1-2,text,true,,1736,276,3,3,https://badmintonsouq.in/main-category/mens,66,0,29
+1719904349445,66,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-2,text,true,,617,140,3,3,http://www.badmintonsouq.in/main-category/mens,66,0,29
+1719904349512,64,HTTP Request-1,200,OK,CollegeStudents 1-2,text,true,,1119,136,3,3,https://badmintonsouq.in/main-category/mens,63,0,58
+1719904349411,205,HTTP Request,200,OK,CollegeStudents 1-1,text,true,,37333,276,3,3,https://badmintonsouq.in/main-category/mens,112,0,52
+1719904349411,112,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-1,text,true,,617,140,3,3,http://www.badmintonsouq.in/main-category/mens,112,0,52
+1719904349524,92,HTTP Request-1,200,OK,CollegeStudents 1-1,text,true,,36716,136,3,3,https://badmintonsouq.in/main-category/mens,71,0,48
+1719904349616,89,HTTP Request,200,OK,CollegeStudents 1-1,text,true,,37331,276,4,4,https://badmintonsouq.in/main-category/mens,64,0,0
+1719904349616,64,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-1,text,true,,616,140,4,4,http://www.badmintonsouq.in/main-category/mens,64,0,0
+1719904349680,25,HTTP Request-1,200,OK,CollegeStudents 1-1,text,true,,36715,136,4,4,https://badmintonsouq.in/main-category/mens,23,0,0
+1719904349534,230,HTTP Request,200,OK,CollegeStudents 1-3,text,true,,37333,276,5,5,https://badmintonsouq.in/main-category/mens,101,0,42
+1719904349534,101,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-3,text,true,,617,140,5,5,http://www.badmintonsouq.in/main-category/mens,101,0,42
+1719904349635,129,HTTP Request-1,200,OK,CollegeStudents 1-3,text,true,,36716,136,5,5,https://badmintonsouq.in/main-category/mens,98,0,67
+1719904349706,102,HTTP Request,200,OK,CollegeStudents 1-1,text,true,,37331,276,5,5,https://badmintonsouq.in/main-category/mens,76,0,0
+1719904349706,76,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-1,text,true,,616,140,5,5,http://www.badmintonsouq.in/main-category/mens,76,0,0
+1719904349782,26,HTTP Request-1,200,OK,CollegeStudents 1-1,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,23,0,0
+1719904349576,234,HTTP Request,200,OK,CollegeStudents 1-2,text,true,,37332,276,5,5,https://badmintonsouq.in/main-category/mens,45,0,0
+1719904349576,45,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-2,text,true,,616,140,5,5,http://www.badmintonsouq.in/main-category/mens,45,0,0
+1719904349621,189,HTTP Request-1,200,OK,CollegeStudents 1-2,text,true,,36716,136,5,5,https://badmintonsouq.in/main-category/mens,143,0,96
+1719904349633,214,HTTP Request,200,OK,CollegeStudents 1-4,text,true,,37333,276,6,6,https://badmintonsouq.in/main-category/mens,98,0,45
+1719904349633,98,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-4,text,true,,617,140,6,6,http://www.badmintonsouq.in/main-category/mens,98,0,45
+1719904349731,116,HTTP Request-1,200,OK,CollegeStudents 1-4,text,true,,36716,136,6,6,https://badmintonsouq.in/main-category/mens,89,0,60
+1719904349764,95,HTTP Request,200,OK,CollegeStudents 1-3,text,true,,37331,276,6,6,https://badmintonsouq.in/main-category/mens,61,0,0
+1719904349764,61,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-3,text,true,,616,140,6,6,http://www.badmintonsouq.in/main-category/mens,61,0,0
+1719904349825,34,HTTP Request-1,200,OK,CollegeStudents 1-3,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,31,0,0
+1719904349731,151,HTTP Request,200,OK,CollegeStudents 1-5,text,true,,37333,276,6,6,https://badmintonsouq.in/main-category/mens,53,0,21
+1719904349731,53,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-5,text,true,,617,140,6,6,http://www.badmintonsouq.in/main-category/mens,53,0,21
+1719904349784,98,HTTP Request-1,200,OK,CollegeStudents 1-5,text,true,,36716,136,6,6,https://badmintonsouq.in/main-category/mens,75,0,51
+1719904349808,100,HTTP Request,200,OK,CollegeStudents 1-1,text,true,,37331,276,6,6,https://badmintonsouq.in/main-category/mens,74,0,0
+1719904349808,74,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-1,text,true,,616,140,6,6,http://www.badmintonsouq.in/main-category/mens,74,0,0
+1719904349882,26,HTTP Request-1,200,OK,CollegeStudents 1-1,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,23,0,0
+1719904349811,100,HTTP Request,200,OK,CollegeStudents 1-2,text,true,,37331,276,5,5,https://badmintonsouq.in/main-category/mens,48,0,0
+1719904349811,48,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-2,text,true,,616,140,5,5,http://www.badmintonsouq.in/main-category/mens,48,0,0
+1719904349859,52,HTTP Request-1,200,OK,CollegeStudents 1-2,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,49,0,0
+1719904349882,58,HTTP Request,200,OK,CollegeStudents 1-5,text,true,,37331,276,6,6,https://badmintonsouq.in/main-category/mens,33,0,0
+1719904349882,33,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-5,text,true,,616,140,6,6,http://www.badmintonsouq.in/main-category/mens,33,0,0
+1719904349915,25,HTTP Request-1,200,OK,CollegeStudents 1-5,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,22,0,0
+1719904349847,105,HTTP Request,200,OK,CollegeStudents 1-4,text,true,,37331,276,6,6,https://badmintonsouq.in/main-category/mens,75,0,0
+1719904349847,75,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-4,text,true,,616,140,6,6,http://www.badmintonsouq.in/main-category/mens,75,0,0
+1719904349922,30,HTTP Request-1,200,OK,CollegeStudents 1-4,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,27,0,0
+1719904349859,96,HTTP Request,200,OK,CollegeStudents 1-3,text,true,,37331,276,6,6,https://badmintonsouq.in/main-category/mens,62,0,0
+1719904349859,62,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-3,text,true,,616,140,6,6,http://www.badmintonsouq.in/main-category/mens,62,0,0
+1719904349921,34,HTTP Request-1,200,OK,CollegeStudents 1-3,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,31,0,0
+1719904349940,56,HTTP Request,200,OK,CollegeStudents 1-5,text,true,,37331,276,6,6,https://badmintonsouq.in/main-category/mens,32,0,0
+1719904349940,32,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-5,text,true,,616,140,6,6,http://www.badmintonsouq.in/main-category/mens,32,0,0
+1719904349972,24,HTTP Request-1,200,OK,CollegeStudents 1-5,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,22,0,0
+1719904349911,89,HTTP Request,200,OK,CollegeStudents 1-2,text,true,,37331,276,6,6,https://badmintonsouq.in/main-category/mens,38,0,0
+1719904349911,38,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-2,text,true,,616,140,6,6,http://www.badmintonsouq.in/main-category/mens,38,0,0
+1719904349950,50,HTTP Request-1,200,OK,CollegeStudents 1-2,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,47,0,0
+1719904349952,94,HTTP Request,200,OK,CollegeStudents 1-4,text,true,,37331,276,7,7,https://badmintonsouq.in/main-category/mens,64,0,0
+1719904349952,64,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-4,text,true,,616,140,7,7,http://www.badmintonsouq.in/main-category/mens,64,0,0
+1719904350016,30,HTTP Request-1,200,OK,CollegeStudents 1-4,text,true,,36715,136,7,7,https://badmintonsouq.in/main-category/mens,28,0,0
+1719904349955,94,HTTP Request,200,OK,CollegeStudents 1-3,text,true,,37331,276,7,7,https://badmintonsouq.in/main-category/mens,60,0,0
+1719904349955,60,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-3,text,true,,616,140,7,7,http://www.badmintonsouq.in/main-category/mens,60,0,0
+1719904350015,34,HTTP Request-1,200,OK,CollegeStudents 1-3,text,true,,36715,136,7,7,https://badmintonsouq.in/main-category/mens,32,0,0
+1719904349997,77,HTTP Request,200,OK,CollegeStudents 1-5,text,true,,37331,276,7,7,https://badmintonsouq.in/main-category/mens,33,0,0
+1719904349997,33,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-5,text,true,,616,140,7,7,http://www.badmintonsouq.in/main-category/mens,33,0,0
+1719904350030,44,HTTP Request-1,200,OK,CollegeStudents 1-5,text,true,,36715,136,7,7,https://badmintonsouq.in/main-category/mens,22,0,0
+1719904350000,88,HTTP Request,200,OK,CollegeStudents 1-2,text,true,,37331,276,7,7,https://badmintonsouq.in/main-category/mens,39,0,0
+1719904350000,39,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-2,text,true,,616,140,7,7,http://www.badmintonsouq.in/main-category/mens,39,0,0
+1719904350039,49,HTTP Request-1,200,OK,CollegeStudents 1-2,text,true,,36715,136,7,7,https://badmintonsouq.in/main-category/mens,46,0,0
+1719904350047,90,HTTP Request,200,OK,CollegeStudents 1-4,text,true,,37331,276,7,7,https://badmintonsouq.in/main-category/mens,60,0,0
+1719904350047,60,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-4,text,true,,616,140,7,7,http://www.badmintonsouq.in/main-category/mens,60,0,0
+1719904350107,30,HTTP Request-1,200,OK,CollegeStudents 1-4,text,true,,36715,136,7,7,https://badmintonsouq.in/main-category/mens,28,0,0
+1719904350050,90,HTTP Request,200,OK,CollegeStudents 1-3,text,true,,37331,276,7,7,https://badmintonsouq.in/main-category/mens,55,0,0
+1719904350050,55,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-3,text,true,,616,140,7,7,http://www.badmintonsouq.in/main-category/mens,55,0,0
+1719904350105,35,HTTP Request-1,200,OK,CollegeStudents 1-3,text,true,,36715,136,7,7,https://badmintonsouq.in/main-category/mens,33,0,0
+1719904350075,72,HTTP Request,200,OK,CollegeStudents 1-5,text,true,,37331,276,6,6,https://badmintonsouq.in/main-category/mens,29,0,0
+1719904350075,29,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-5,text,true,,616,140,6,6,http://www.badmintonsouq.in/main-category/mens,29,0,0
+1719904350104,43,HTTP Request-1,200,OK,CollegeStudents 1-5,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,22,0,0
+1719904350030,197,HTTP Request,200,OK,CollegeStudents 1-8,text,true,,37333,276,5,5,https://badmintonsouq.in/main-category/mens,85,0,22
+1719904350030,85,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-8,text,true,,617,140,5,5,http://www.badmintonsouq.in/main-category/mens,85,0,22
+1719904350115,112,HTTP Request-1,200,OK,CollegeStudents 1-8,text,true,,36716,136,5,5,https://badmintonsouq.in/main-category/mens,84,0,57
+1719904350137,93,HTTP Request,200,OK,CollegeStudents 1-4,text,true,,37331,276,6,6,https://badmintonsouq.in/main-category/mens,59,0,0
+1719904350137,59,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-4,text,true,,616,140,6,6,http://www.badmintonsouq.in/main-category/mens,59,0,0
+1719904350196,34,HTTP Request-1,200,OK,CollegeStudents 1-4,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,32,0,0
+1719904349832,411,HTTP Request,200,OK,CollegeStudents 1-6,text,true,,37333,276,5,5,https://badmintonsouq.in/main-category/mens,98,0,28
+1719904349832,98,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-6,text,true,,617,140,5,5,http://www.badmintonsouq.in/main-category/mens,98,0,28
+1719904349931,312,HTTP Request-1,200,OK,CollegeStudents 1-6,text,true,,36716,136,5,5,https://badmintonsouq.in/main-category/mens,264,0,213
+1719904349932,355,HTTP Request,200,OK,CollegeStudents 1-7,text,true,,37333,276,5,5,https://badmintonsouq.in/main-category/mens,71,0,26
+1719904349932,71,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-7,text,true,,617,140,5,5,http://www.badmintonsouq.in/main-category/mens,71,0,26
+1719904350003,284,HTTP Request-1,200,OK,CollegeStudents 1-7,text,true,,36716,136,5,5,https://badmintonsouq.in/main-category/mens,232,0,182
+1719904350227,68,HTTP Request,200,OK,CollegeStudents 1-8,text,true,,37331,276,5,5,https://badmintonsouq.in/main-category/mens,36,0,0
+1719904350227,36,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-8,text,true,,616,140,5,5,http://www.badmintonsouq.in/main-category/mens,36,0,0
+1719904350264,31,HTTP Request-1,200,OK,CollegeStudents 1-8,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,28,0,0
+1719904350132,190,HTTP Request,200,OK,CollegeStudents 1-9,text,true,,37333,276,5,5,https://badmintonsouq.in/main-category/mens,74,0,33
+1719904350132,74,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-9,text,true,,617,140,5,5,http://www.badmintonsouq.in/main-category/mens,74,0,33
+1719904350206,116,HTTP Request-1,200,OK,CollegeStudents 1-9,text,true,,36716,136,5,5,https://badmintonsouq.in/main-category/mens,90,0,59
+1719904350244,90,HTTP Request,200,OK,CollegeStudents 1-6,text,true,,37331,276,5,5,https://badmintonsouq.in/main-category/mens,38,0,0
+1719904350244,38,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-6,text,true,,616,140,5,5,http://www.badmintonsouq.in/main-category/mens,38,0,0
+1719904350282,52,HTTP Request-1,200,OK,CollegeStudents 1-6,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,50,0,0
+1719904350296,59,HTTP Request,200,OK,CollegeStudents 1-8,text,true,,37331,276,5,5,https://badmintonsouq.in/main-category/mens,30,0,0
+1719904350296,30,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-8,text,true,,616,140,5,5,http://www.badmintonsouq.in/main-category/mens,30,0,0
+1719904350326,29,HTTP Request-1,200,OK,CollegeStudents 1-8,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,27,0,0
+1719904350287,87,HTTP Request,200,OK,CollegeStudents 1-7,text,true,,37331,276,5,5,https://badmintonsouq.in/main-category/mens,39,0,0
+1719904350287,39,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-7,text,true,,616,140,5,5,http://www.badmintonsouq.in/main-category/mens,39,0,0
+1719904350326,48,HTTP Request-1,200,OK,CollegeStudents 1-7,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,45,0,0
+1719904350322,70,HTTP Request,200,OK,CollegeStudents 1-9,text,true,,37331,276,5,5,https://badmintonsouq.in/main-category/mens,41,0,0
+1719904350322,41,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-9,text,true,,616,140,5,5,http://www.badmintonsouq.in/main-category/mens,41,0,0
+1719904350363,29,HTTP Request-1,200,OK,CollegeStudents 1-9,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,27,0,0
+1719904350355,61,HTTP Request,200,OK,CollegeStudents 1-8,text,true,,37331,276,5,5,https://badmintonsouq.in/main-category/mens,32,0,0
+1719904350355,32,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-8,text,true,,616,140,5,5,http://www.badmintonsouq.in/main-category/mens,32,0,0
+1719904350387,29,HTTP Request-1,200,OK,CollegeStudents 1-8,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,27,0,0
+1719904350335,99,HTTP Request,200,OK,CollegeStudents 1-6,text,true,,37331,276,5,5,https://badmintonsouq.in/main-category/mens,35,0,0
+1719904350335,35,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-6,text,true,,616,140,5,5,http://www.badmintonsouq.in/main-category/mens,35,0,0
+1719904350370,64,HTTP Request-1,200,OK,CollegeStudents 1-6,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,61,0,0
+1719904350374,84,HTTP Request,200,OK,CollegeStudents 1-7,text,true,,37331,276,5,5,https://badmintonsouq.in/main-category/mens,34,0,0
+1719904350374,34,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-7,text,true,,616,140,5,5,http://www.badmintonsouq.in/main-category/mens,34,0,0
+1719904350408,50,HTTP Request-1,200,OK,CollegeStudents 1-7,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,49,0,0
+1719904350393,74,HTTP Request,200,OK,CollegeStudents 1-9,text,true,,37331,276,5,5,https://badmintonsouq.in/main-category/mens,45,0,0
+1719904350393,45,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-9,text,true,,616,140,5,5,http://www.badmintonsouq.in/main-category/mens,45,0,0
+1719904350438,29,HTTP Request-1,200,OK,CollegeStudents 1-9,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,26,0,0
+1719904350417,65,HTTP Request,200,OK,CollegeStudents 1-8,text,true,,37331,276,5,5,https://badmintonsouq.in/main-category/mens,36,0,0
+1719904350417,36,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-8,text,true,,616,140,5,5,http://www.badmintonsouq.in/main-category/mens,36,0,0
+1719904350453,29,HTTP Request-1,200,OK,CollegeStudents 1-8,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,26,0,0
+1719904350434,91,HTTP Request,200,OK,CollegeStudents 1-6,text,true,,37331,276,4,4,https://badmintonsouq.in/main-category/mens,39,0,0
+1719904350434,39,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-6,text,true,,616,140,4,4,http://www.badmintonsouq.in/main-category/mens,39,0,0
+1719904350473,52,HTTP Request-1,200,OK,CollegeStudents 1-6,text,true,,36715,136,4,4,https://badmintonsouq.in/main-category/mens,49,0,0
+1719904350459,87,HTTP Request,200,OK,CollegeStudents 1-7,text,true,,37331,276,4,4,https://badmintonsouq.in/main-category/mens,38,0,0
+1719904350230,316,HTTP Request,200,OK,CollegeStudents 1-10,text,true,,37333,276,4,4,https://badmintonsouq.in/main-category/mens,105,0,48
+1719904350459,38,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-7,text,true,,616,140,4,4,http://www.badmintonsouq.in/main-category/mens,38,0,0
+1719904350497,49,HTTP Request-1,200,OK,CollegeStudents 1-7,text,true,,36715,136,4,4,https://badmintonsouq.in/main-category/mens,46,0,0
+1719904350230,105,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-10,text,true,,617,140,4,4,http://www.badmintonsouq.in/main-category/mens,105,0,48
+1719904350335,211,HTTP Request-1,200,OK,CollegeStudents 1-10,text,true,,36716,136,4,4,https://badmintonsouq.in/main-category/mens,153,0,103
+1719904350467,82,HTTP Request,200,OK,CollegeStudents 1-9,text,true,,37331,276,4,4,https://badmintonsouq.in/main-category/mens,47,0,0
+1719904350467,47,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-9,text,true,,616,140,4,4,http://www.badmintonsouq.in/main-category/mens,47,0,0
+1719904350514,35,HTTP Request-1,200,OK,CollegeStudents 1-9,text,true,,36715,136,4,4,https://badmintonsouq.in/main-category/mens,32,0,0
+1719904350525,96,HTTP Request,200,OK,CollegeStudents 1-6,text,true,,37331,276,4,4,https://badmintonsouq.in/main-category/mens,43,0,0
+1719904350525,43,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-6,text,true,,616,140,4,4,http://www.badmintonsouq.in/main-category/mens,43,0,0
+1719904350568,53,HTTP Request-1,200,OK,CollegeStudents 1-6,text,true,,36715,136,4,4,https://badmintonsouq.in/main-category/mens,50,0,0
+1719904350549,78,HTTP Request,200,OK,CollegeStudents 1-9,text,true,,37331,276,3,3,https://badmintonsouq.in/main-category/mens,50,0,0
+1719904350549,50,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-9,text,true,,616,140,3,3,http://www.badmintonsouq.in/main-category/mens,50,0,0
+1719904350599,28,HTTP Request-1,200,OK,CollegeStudents 1-9,text,true,,36715,136,3,3,https://badmintonsouq.in/main-category/mens,26,0,0
+1719904350546,100,HTTP Request,200,OK,CollegeStudents 1-7,text,true,,37331,276,2,2,https://badmintonsouq.in/main-category/mens,47,0,0
+1719904350546,47,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-7,text,true,,616,140,2,2,http://www.badmintonsouq.in/main-category/mens,47,0,0
+1719904350593,53,HTTP Request-1,200,OK,CollegeStudents 1-7,text,true,,36715,136,2,2,https://badmintonsouq.in/main-category/mens,51,0,0
+1719904350546,120,HTTP Request,200,OK,CollegeStudents 1-10,text,true,,37331,276,1,1,https://badmintonsouq.in/main-category/mens,67,0,0
+1719904350546,67,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-10,text,true,,616,140,1,1,http://www.badmintonsouq.in/main-category/mens,67,0,0
+1719904350613,53,HTTP Request-1,200,OK,CollegeStudents 1-10,text,true,,36715,136,1,1,https://badmintonsouq.in/main-category/mens,50,0,0
+1719904350666,111,HTTP Request,200,OK,CollegeStudents 1-10,text,true,,37331,276,1,1,https://badmintonsouq.in/main-category/mens,59,0,0
+1719904350666,59,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-10,text,true,,616,140,1,1,http://www.badmintonsouq.in/main-category/mens,59,0,0
+1719904350725,52,HTTP Request-1,200,OK,CollegeStudents 1-10,text,true,,36715,136,1,1,https://badmintonsouq.in/main-category/mens,50,0,0
+1719904350778,108,HTTP Request,200,OK,CollegeStudents 1-10,text,true,,37331,276,1,1,https://badmintonsouq.in/main-category/mens,55,0,0
+1719904350778,55,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-10,text,true,,616,140,1,1,http://www.badmintonsouq.in/main-category/mens,55,0,0
+1719904350833,53,HTTP Request-1,200,OK,CollegeStudents 1-10,text,true,,36715,136,1,1,https://badmintonsouq.in/main-category/mens,51,0,0
+1719904350886,108,HTTP Request,200,OK,CollegeStudents 1-10,text,true,,37331,276,1,1,https://badmintonsouq.in/main-category/mens,56,0,0
+1719904350886,56,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-10,text,true,,616,140,1,1,http://www.badmintonsouq.in/main-category/mens,56,0,0
+1719904350942,52,HTTP Request-1,200,OK,CollegeStudents 1-10,text,true,,36715,136,1,1,https://badmintonsouq.in/main-category/mens,50,0,0
+1719904370609,192,HTTP Request,200,OK,CollegeStudents 1-1,text,true,,37333,276,2,2,https://badmintonsouq.in/main-category/mens,74,0,29
+1719904370609,74,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-1,text,true,,617,140,2,2,http://www.badmintonsouq.in/main-category/mens,74,0,29
+1719904370683,118,HTTP Request-1,200,OK,CollegeStudents 1-1,text,true,,36716,136,2,2,https://badmintonsouq.in/main-category/mens,91,0,62
+1719904370801,79,HTTP Request,200,OK,CollegeStudents 1-1,text,true,,37331,276,3,3,https://badmintonsouq.in/main-category/mens,48,0,0
+1719904370801,48,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-1,text,true,,616,140,3,3,http://www.badmintonsouq.in/main-category/mens,48,0,0
+1719904370849,31,HTTP Request-1,200,OK,CollegeStudents 1-1,text,true,,36715,136,3,3,https://badmintonsouq.in/main-category/mens,29,0,0
+1719904370713,202,HTTP Request,200,OK,CollegeStudents 1-2,text,true,,37333,276,4,4,https://badmintonsouq.in/main-category/mens,88,0,59
+1719904370713,88,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-2,text,true,,617,140,4,4,http://www.badmintonsouq.in/main-category/mens,88,0,59
+1719904370802,113,HTTP Request-1,200,OK,CollegeStudents 1-2,text,true,,36716,136,4,4,https://badmintonsouq.in/main-category/mens,87,0,59
+1719904370880,82,HTTP Request,200,OK,CollegeStudents 1-1,text,true,,37331,276,4,4,https://badmintonsouq.in/main-category/mens,52,0,0
+1719904370880,52,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-1,text,true,,616,140,4,4,http://www.badmintonsouq.in/main-category/mens,52,0,0
+1719904370932,30,HTTP Request-1,200,OK,CollegeStudents 1-1,text,true,,36715,136,4,4,https://badmintonsouq.in/main-category/mens,28,0,0
+1719904370916,63,HTTP Request,200,OK,CollegeStudents 1-2,text,true,,37331,276,4,4,https://badmintonsouq.in/main-category/mens,33,0,0
+1719904370916,33,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-2,text,true,,616,140,4,4,http://www.badmintonsouq.in/main-category/mens,33,0,0
+1719904370949,30,HTTP Request-1,200,OK,CollegeStudents 1-2,text,true,,36715,136,4,4,https://badmintonsouq.in/main-category/mens,27,0,0
+1719904370812,201,HTTP Request,200,OK,CollegeStudents 1-3,text,true,,37333,276,5,5,https://badmintonsouq.in/main-category/mens,73,0,31
+1719904370812,73,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-3,text,true,,617,140,5,5,http://www.badmintonsouq.in/main-category/mens,73,0,31
+1719904370885,128,HTTP Request-1,200,OK,CollegeStudents 1-3,text,true,,36716,136,5,5,https://badmintonsouq.in/main-category/mens,98,0,67
+1719904370963,74,HTTP Request,200,OK,CollegeStudents 1-1,text,true,,37331,276,5,5,https://badmintonsouq.in/main-category/mens,44,0,0
+1719904370963,44,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-1,text,true,,616,140,5,5,http://www.badmintonsouq.in/main-category/mens,44,0,0
+1719904371007,30,HTTP Request-1,200,OK,CollegeStudents 1-1,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,28,0,0
+1719904370979,63,HTTP Request,200,OK,CollegeStudents 1-2,text,true,,37331,276,5,5,https://badmintonsouq.in/main-category/mens,34,0,0
+1719904370979,34,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-2,text,true,,616,140,5,5,http://www.badmintonsouq.in/main-category/mens,34,0,0
+1719904371013,29,HTTP Request-1,200,OK,CollegeStudents 1-2,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,27,0,0
+1719904371014,91,HTTP Request,200,OK,CollegeStudents 1-3,text,true,,37331,276,5,5,https://badmintonsouq.in/main-category/mens,47,0,0
+1719904371014,47,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-3,text,true,,616,140,5,5,http://www.badmintonsouq.in/main-category/mens,47,0,0
+1719904371061,44,HTTP Request-1,200,OK,CollegeStudents 1-3,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,42,0,0
+1719904371043,65,HTTP Request,200,OK,CollegeStudents 1-2,text,true,,37331,276,5,5,https://badmintonsouq.in/main-category/mens,36,0,0
+1719904371043,36,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-2,text,true,,616,140,5,5,http://www.badmintonsouq.in/main-category/mens,36,0,0
+1719904371079,29,HTTP Request-1,200,OK,CollegeStudents 1-2,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,27,0,0
+1719904371038,110,HTTP Request,200,OK,CollegeStudents 1-1,text,true,,37331,276,6,6,https://badmintonsouq.in/main-category/mens,64,0,0
+1719904371038,64,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-1,text,true,,616,140,6,6,http://www.badmintonsouq.in/main-category/mens,64,0,0
+1719904371102,46,HTTP Request-1,200,OK,CollegeStudents 1-1,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,30,0,0
+1719904371109,71,HTTP Request,200,OK,CollegeStudents 1-2,text,true,,37331,276,5,5,https://badmintonsouq.in/main-category/mens,41,0,0
+1719904371109,41,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-2,text,true,,616,140,5,5,http://www.badmintonsouq.in/main-category/mens,41,0,0
+1719904371150,30,HTTP Request-1,200,OK,CollegeStudents 1-2,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,27,0,0
+1719904371106,84,HTTP Request,200,OK,CollegeStudents 1-3,text,true,,37331,276,4,4,https://badmintonsouq.in/main-category/mens,49,0,0
+1719904371106,49,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-3,text,true,,616,140,4,4,http://www.badmintonsouq.in/main-category/mens,49,0,0
+1719904371156,34,HTTP Request-1,200,OK,CollegeStudents 1-3,text,true,,36715,136,4,4,https://badmintonsouq.in/main-category/mens,32,0,0
+1719904370911,334,HTTP Request,200,OK,CollegeStudents 1-4,text,true,,37333,276,5,5,https://badmintonsouq.in/main-category/mens,147,0,66
+1719904370911,147,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-4,text,true,,617,140,5,5,http://www.badmintonsouq.in/main-category/mens,147,0,66
+1719904371061,184,HTTP Request-1,200,OK,CollegeStudents 1-4,text,true,,36716,136,5,5,https://badmintonsouq.in/main-category/mens,156,0,125
+1719904371190,77,HTTP Request,200,OK,CollegeStudents 1-3,text,true,,37331,276,5,5,https://badmintonsouq.in/main-category/mens,44,0,0
+1719904371190,44,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-3,text,true,,616,140,5,5,http://www.badmintonsouq.in/main-category/mens,44,0,0
+1719904371234,33,HTTP Request-1,200,OK,CollegeStudents 1-3,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,31,0,0
+1719904371011,312,HTTP Request,200,OK,CollegeStudents 1-5,text,true,,37333,276,6,6,https://badmintonsouq.in/main-category/mens,177,0,47
+1719904371011,177,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-5,text,true,,617,140,6,6,http://www.badmintonsouq.in/main-category/mens,177,0,47
+1719904371188,135,HTTP Request-1,200,OK,CollegeStudents 1-5,text,true,,36716,136,6,6,https://badmintonsouq.in/main-category/mens,108,0,75
+1719904371267,77,HTTP Request,200,OK,CollegeStudents 1-3,text,true,,37331,276,6,6,https://badmintonsouq.in/main-category/mens,44,0,0
+1719904371267,44,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-3,text,true,,616,140,6,6,http://www.badmintonsouq.in/main-category/mens,44,0,0
+1719904371311,33,HTTP Request-1,200,OK,CollegeStudents 1-3,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,31,0,0
+1719904371245,102,HTTP Request,200,OK,CollegeStudents 1-4,text,true,,37331,276,5,5,https://badmintonsouq.in/main-category/mens,70,0,0
+1719904371245,70,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-4,text,true,,616,140,5,5,http://www.badmintonsouq.in/main-category/mens,70,0,0
+1719904371316,31,HTTP Request-1,200,OK,CollegeStudents 1-4,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,29,0,0
+1719904371323,76,HTTP Request,200,OK,CollegeStudents 1-5,text,true,,37331,276,5,5,https://badmintonsouq.in/main-category/mens,45,0,0
+1719904371323,45,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-5,text,true,,616,140,5,5,http://www.badmintonsouq.in/main-category/mens,45,0,0
+1719904371368,31,HTTP Request-1,200,OK,CollegeStudents 1-5,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,29,0,0
+1719904371348,104,HTTP Request,200,OK,CollegeStudents 1-4,text,true,,37331,276,6,6,https://badmintonsouq.in/main-category/mens,73,0,0
+1719904371348,73,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-4,text,true,,616,140,6,6,http://www.badmintonsouq.in/main-category/mens,73,0,0
+1719904371421,31,HTTP Request-1,200,OK,CollegeStudents 1-4,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,29,0,0
+1719904371400,79,HTTP Request,200,OK,CollegeStudents 1-5,text,true,,37331,276,6,6,https://badmintonsouq.in/main-category/mens,49,0,0
+1719904371400,49,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-5,text,true,,616,140,6,6,http://www.badmintonsouq.in/main-category/mens,49,0,0
+1719904371449,30,HTTP Request-1,200,OK,CollegeStudents 1-5,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,28,0,0
+1719904371110,387,HTTP Request,200,OK,CollegeStudents 1-6,text,true,,37333,276,6,6,https://badmintonsouq.in/main-category/mens,98,0,38
+1719904371110,98,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-6,text,true,,617,140,6,6,http://www.badmintonsouq.in/main-category/mens,98,0,38
+1719904371208,289,HTTP Request-1,200,OK,CollegeStudents 1-6,text,true,,36716,136,6,6,https://badmintonsouq.in/main-category/mens,241,0,194
+1719904371453,99,HTTP Request,200,OK,CollegeStudents 1-4,text,true,,37331,276,7,7,https://badmintonsouq.in/main-category/mens,67,0,0
+1719904371453,67,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-4,text,true,,616,140,7,7,http://www.badmintonsouq.in/main-category/mens,67,0,0
+1719904371520,32,HTTP Request-1,200,OK,CollegeStudents 1-4,text,true,,36715,136,7,7,https://badmintonsouq.in/main-category/mens,29,0,0
+1719904371479,78,HTTP Request,200,OK,CollegeStudents 1-5,text,true,,37331,276,7,7,https://badmintonsouq.in/main-category/mens,48,0,0
+1719904371479,48,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-5,text,true,,616,140,7,7,http://www.badmintonsouq.in/main-category/mens,48,0,0
+1719904371527,30,HTTP Request-1,200,OK,CollegeStudents 1-5,text,true,,36715,136,7,7,https://badmintonsouq.in/main-category/mens,29,0,0
+1719904371497,86,HTTP Request,200,OK,CollegeStudents 1-6,text,true,,37331,276,7,7,https://badmintonsouq.in/main-category/mens,37,0,0
+1719904371497,37,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-6,text,true,,616,140,7,7,http://www.badmintonsouq.in/main-category/mens,37,0,0
+1719904371534,49,HTTP Request-1,200,OK,CollegeStudents 1-6,text,true,,36715,136,7,7,https://badmintonsouq.in/main-category/mens,47,0,0
+1719904371558,89,HTTP Request,200,OK,CollegeStudents 1-5,text,true,,37331,276,7,7,https://badmintonsouq.in/main-category/mens,59,0,0
+1719904371558,59,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-5,text,true,,616,140,7,7,http://www.badmintonsouq.in/main-category/mens,59,0,0
+1719904371617,30,HTTP Request-1,200,OK,CollegeStudents 1-5,text,true,,36715,136,7,7,https://badmintonsouq.in/main-category/mens,28,0,0
+1719904371552,117,HTTP Request,200,OK,CollegeStudents 1-4,text,true,,37331,276,6,6,https://badmintonsouq.in/main-category/mens,86,0,0
+1719904371552,86,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-4,text,true,,616,140,6,6,http://www.badmintonsouq.in/main-category/mens,86,0,0
+1719904371638,31,HTTP Request-1,200,OK,CollegeStudents 1-4,text,true,,36715,136,6,6,https://badmintonsouq.in/main-category/mens,29,0,0
+1719904371584,102,HTTP Request,200,OK,CollegeStudents 1-6,text,true,,37331,276,5,5,https://badmintonsouq.in/main-category/mens,39,0,0
+1719904371584,39,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-6,text,true,,616,140,5,5,http://www.badmintonsouq.in/main-category/mens,39,0,0
+1719904371623,63,HTTP Request-1,200,OK,CollegeStudents 1-6,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,61,0,0
+1719904371687,86,HTTP Request,200,OK,CollegeStudents 1-6,text,true,,37331,276,5,5,https://badmintonsouq.in/main-category/mens,37,0,0
+1719904371687,37,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-6,text,true,,616,140,5,5,http://www.badmintonsouq.in/main-category/mens,37,0,0
+1719904371724,49,HTTP Request-1,200,OK,CollegeStudents 1-6,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,47,0,0
+1719904371773,87,HTTP Request,200,OK,CollegeStudents 1-6,text,true,,37331,276,5,5,https://badmintonsouq.in/main-category/mens,37,0,0
+1719904371773,37,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-6,text,true,,616,140,5,5,http://www.badmintonsouq.in/main-category/mens,37,0,0
+1719904371810,50,HTTP Request-1,200,OK,CollegeStudents 1-6,text,true,,36715,136,5,5,https://badmintonsouq.in/main-category/mens,48,0,0
+1719904371210,769,HTTP Request,200,OK,CollegeStudents 1-7,text,true,,37333,276,4,4,https://badmintonsouq.in/main-category/mens,77,0,27
+1719904371210,77,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-7,text,true,,617,140,4,4,http://www.badmintonsouq.in/main-category/mens,77,0,27
+1719904371288,691,HTTP Request-1,200,OK,CollegeStudents 1-7,text,true,,36716,136,4,4,https://badmintonsouq.in/main-category/mens,652,0,610
+1719904371310,714,HTTP Request,200,OK,CollegeStudents 1-8,text,true,,37333,276,4,4,https://badmintonsouq.in/main-category/mens,61,0,22
+1719904371310,61,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-8,text,true,,617,140,4,4,http://www.badmintonsouq.in/main-category/mens,61,0,22
+1719904371372,652,HTTP Request-1,200,OK,CollegeStudents 1-8,text,true,,36716,136,4,4,https://badmintonsouq.in/main-category/mens,600,0,548
+1719904371979,74,HTTP Request,200,OK,CollegeStudents 1-7,text,true,,37331,276,4,4,https://badmintonsouq.in/main-category/mens,38,0,0
+1719904371979,38,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-7,text,true,,616,140,4,4,http://www.badmintonsouq.in/main-category/mens,38,0,0
+1719904372017,36,HTTP Request-1,200,OK,CollegeStudents 1-7,text,true,,36715,136,4,4,https://badmintonsouq.in/main-category/mens,34,0,0
+1719904372024,89,HTTP Request,200,OK,CollegeStudents 1-8,text,true,,37331,276,4,4,https://badmintonsouq.in/main-category/mens,33,0,0
+1719904372024,33,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-8,text,true,,616,140,4,4,http://www.badmintonsouq.in/main-category/mens,33,0,0
+1719904372058,55,HTTP Request-1,200,OK,CollegeStudents 1-8,text,true,,36715,136,4,4,https://badmintonsouq.in/main-category/mens,53,0,0
+1719904372054,75,HTTP Request,200,OK,CollegeStudents 1-7,text,true,,37331,276,4,4,https://badmintonsouq.in/main-category/mens,36,0,0
+1719904372054,36,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-7,text,true,,616,140,4,4,http://www.badmintonsouq.in/main-category/mens,36,0,0
+1719904372090,39,HTTP Request-1,200,OK,CollegeStudents 1-7,text,true,,36715,136,4,4,https://badmintonsouq.in/main-category/mens,37,0,0
+1719904372113,97,HTTP Request,200,OK,CollegeStudents 1-8,text,true,,37331,276,4,4,https://badmintonsouq.in/main-category/mens,37,0,0
+1719904372113,37,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-8,text,true,,616,140,4,4,http://www.badmintonsouq.in/main-category/mens,37,0,0
+1719904372150,60,HTTP Request-1,200,OK,CollegeStudents 1-8,text,true,,36715,136,4,4,https://badmintonsouq.in/main-category/mens,58,0,0
+1719904372130,83,HTTP Request,200,OK,CollegeStudents 1-7,text,true,,37331,276,4,4,https://badmintonsouq.in/main-category/mens,44,0,0
+1719904372130,44,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-7,text,true,,616,140,4,4,http://www.badmintonsouq.in/main-category/mens,44,0,0
+1719904372174,39,HTTP Request-1,200,OK,CollegeStudents 1-7,text,true,,36715,136,4,4,https://badmintonsouq.in/main-category/mens,37,0,0
+1719904371410,885,HTTP Request,200,OK,CollegeStudents 1-9,text,true,,37333,276,4,4,https://badmintonsouq.in/main-category/mens,273,0,35
+1719904371410,273,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-9,text,true,,617,140,4,4,http://www.badmintonsouq.in/main-category/mens,273,0,35
+1719904371683,612,HTTP Request-1,200,OK,CollegeStudents 1-9,text,true,,36716,136,4,4,https://badmintonsouq.in/main-category/mens,579,0,544
+1719904372214,89,HTTP Request,200,OK,CollegeStudents 1-7,text,true,,37331,276,4,4,https://badmintonsouq.in/main-category/mens,42,0,0
+1719904372214,42,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-7,text,true,,616,140,4,4,http://www.badmintonsouq.in/main-category/mens,42,0,0
+1719904372256,47,HTTP Request-1,200,OK,CollegeStudents 1-7,text,true,,36715,136,4,4,https://badmintonsouq.in/main-category/mens,45,0,0
+1719904372211,95,HTTP Request,200,OK,CollegeStudents 1-8,text,true,,37331,276,3,3,https://badmintonsouq.in/main-category/mens,40,0,0
+1719904372211,40,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-8,text,true,,616,140,3,3,http://www.badmintonsouq.in/main-category/mens,40,0,0
+1719904372251,55,HTTP Request-1,200,OK,CollegeStudents 1-8,text,true,,36715,136,3,3,https://badmintonsouq.in/main-category/mens,54,0,0
+1719904372296,94,HTTP Request,200,OK,CollegeStudents 1-9,text,true,,37331,276,3,3,https://badmintonsouq.in/main-category/mens,57,0,0
+1719904372296,57,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-9,text,true,,616,140,3,3,http://www.badmintonsouq.in/main-category/mens,57,0,0
+1719904372353,37,HTTP Request-1,200,OK,CollegeStudents 1-9,text,true,,36715,136,3,3,https://badmintonsouq.in/main-category/mens,34,0,0
+1719904372307,99,HTTP Request,200,OK,CollegeStudents 1-8,text,true,,37331,276,3,3,https://badmintonsouq.in/main-category/mens,44,0,0
+1719904372307,44,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-8,text,true,,616,140,3,3,http://www.badmintonsouq.in/main-category/mens,44,0,0
+1719904372351,55,HTTP Request-1,200,OK,CollegeStudents 1-8,text,true,,36715,136,3,3,https://badmintonsouq.in/main-category/mens,52,0,0
+1719904371509,902,HTTP Request,200,OK,CollegeStudents 1-10,text,true,,37333,276,2,2,https://badmintonsouq.in/main-category/mens,211,0,45
+1719904371509,211,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-10,text,true,,617,140,2,2,http://www.badmintonsouq.in/main-category/mens,211,0,45
+1719904371720,691,HTTP Request-1,200,OK,CollegeStudents 1-10,text,true,,36716,136,2,2,https://badmintonsouq.in/main-category/mens,660,0,627
+1719904372390,97,HTTP Request,200,OK,CollegeStudents 1-9,text,true,,37331,276,2,2,https://badmintonsouq.in/main-category/mens,59,0,0
+1719904372390,59,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-9,text,true,,616,140,2,2,http://www.badmintonsouq.in/main-category/mens,59,0,0
+1719904372449,38,HTTP Request-1,200,OK,CollegeStudents 1-9,text,true,,36715,136,2,2,https://badmintonsouq.in/main-category/mens,36,0,0
+1719904372411,101,HTTP Request,200,OK,CollegeStudents 1-10,text,true,,37331,276,2,2,https://badmintonsouq.in/main-category/mens,56,0,0
+1719904372411,56,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-10,text,true,,616,140,2,2,http://www.badmintonsouq.in/main-category/mens,56,0,0
+1719904372467,45,HTTP Request-1,200,OK,CollegeStudents 1-10,text,true,,36715,136,2,2,https://badmintonsouq.in/main-category/mens,43,0,0
+1719904372487,92,HTTP Request,200,OK,CollegeStudents 1-9,text,true,,37331,276,2,2,https://badmintonsouq.in/main-category/mens,56,0,0
+1719904372487,56,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-9,text,true,,616,140,2,2,http://www.badmintonsouq.in/main-category/mens,56,0,0
+1719904372543,36,HTTP Request-1,200,OK,CollegeStudents 1-9,text,true,,36715,136,2,2,https://badmintonsouq.in/main-category/mens,34,0,0
+1719904372512,85,HTTP Request,200,OK,CollegeStudents 1-10,text,true,,37331,276,2,2,https://badmintonsouq.in/main-category/mens,50,0,0
+1719904372512,50,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-10,text,true,,616,140,2,2,http://www.badmintonsouq.in/main-category/mens,50,0,0
+1719904372563,34,HTTP Request-1,200,OK,CollegeStudents 1-10,text,true,,36715,136,2,2,https://badmintonsouq.in/main-category/mens,32,0,0
+1719904372580,87,HTTP Request,200,OK,CollegeStudents 1-9,text,true,,37331,276,2,2,https://badmintonsouq.in/main-category/mens,50,0,0
+1719904372580,50,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-9,text,true,,616,140,2,2,http://www.badmintonsouq.in/main-category/mens,50,0,0
+1719904372630,37,HTTP Request-1,200,OK,CollegeStudents 1-9,text,true,,36715,136,2,2,https://badmintonsouq.in/main-category/mens,35,0,0
+1719904372598,84,HTTP Request,200,OK,CollegeStudents 1-10,text,true,,37331,276,1,1,https://badmintonsouq.in/main-category/mens,43,0,0
+1719904372598,43,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-10,text,true,,616,140,1,1,http://www.badmintonsouq.in/main-category/mens,43,0,0
+1719904372642,40,HTTP Request-1,200,OK,CollegeStudents 1-10,text,true,,36715,136,1,1,https://badmintonsouq.in/main-category/mens,37,0,0
+1719904372682,74,HTTP Request,200,OK,CollegeStudents 1-10,text,true,,37331,276,1,1,https://badmintonsouq.in/main-category/mens,40,0,0
+1719904372682,40,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-10,text,true,,616,140,1,1,http://www.badmintonsouq.in/main-category/mens,40,0,0
+1719904372722,34,HTTP Request-1,200,OK,CollegeStudents 1-10,text,true,,36715,136,1,1,https://badmintonsouq.in/main-category/mens,32,0,0
+1719904399586,225,HTTP Request,200,OK,CollegeStudents 1-1,text,true,,37333,276,1,1,https://badmintonsouq.in/main-category/mens,57,0,23
+1719904399586,57,HTTP Request-0,301,Moved Permanently,CollegeStudents 1-1,text,true,,617,140,1,1,http://www.badmintonsouq.in/main-category/mens,57,0,23
+1719904399643,168,HTTP Request-1,200,OK,CollegeStudents 1-1,text,true,,36716,136,1,1,https://badmintonsouq.in/main-category/mens,133,0,97
