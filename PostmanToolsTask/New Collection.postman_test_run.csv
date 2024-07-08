@@ -1,0 +1,146 @@
+{
+	"id": "cb934b06-decf-4095-8d13-f8c717ba6328",
+	"name": "New Collection",
+	"timestamp": "2024-07-04T06:38:34.495Z",
+	"collection_id": "36734963-eca21afb-79a7-4931-9c95-7e6a75e6fc9d",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 4,
+	"delay": 0,
+	"persist": true,
+	"status": "finished",
+	"startedAt": "2024-07-04T06:38:33.318Z",
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "9f6b4755-103e-4e82-a310-6ef6b073e3ce",
+			"name": "GETHOME",
+			"url": "https://shivajicollegekannad.org/home/",
+			"time": 67,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				67
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "fcdf060b-c22a-4711-87b9-bf67d359d62a",
+			"name": "GETContact",
+			"url": "https://shivajicollegekannad.org/home/contact/",
+			"time": 59,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				59
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "a014a237-eaf5-4b2f-807a-83c87a10f815",
+			"name": "GETEnvironmental",
+			"url": "https://shivajicollegekannad.org/home/environmental/",
+			"time": 69,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				69
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "f19dc604-eda5-4fb6-bb9e-dcc56399e623",
+			"name": "GETAboutUs",
+			"url": "https://shivajicollegekannad.org/home/about_college",
+			"time": 154,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				154
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 349,
+	"collection": {
+		"requests": [
+			{
+				"id": "9f6b4755-103e-4e82-a310-6ef6b073e3ce",
+				"method": "GET"
+			},
+			{
+				"id": "fcdf060b-c22a-4711-87b9-bf67d359d62a",
+				"method": "GET"
+			},
+			{
+				"id": "a014a237-eaf5-4b2f-807a-83c87a10f815",
+				"method": "GET"
+			},
+			{
+				"id": "f19dc604-eda5-4fb6-bb9e-dcc56399e623",
+				"method": "GET"
+			}
+		]
+	}
+}
