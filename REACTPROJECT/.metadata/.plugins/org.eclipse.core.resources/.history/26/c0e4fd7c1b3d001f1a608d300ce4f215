@@ -1,0 +1,71 @@
+package Local;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class StudentRegistrationFormTest extends StudentRegistrationForm {
+
+    @Test
+    void testRollNo() {
+        StudentRegistrationForm form = new StudentRegistrationForm();
+        form.setRollNo("12345");
+        assertEquals("12345", form.getRollNo());
+    }
+
+    @Test
+    void testFullName() {
+        StudentRegistrationForm form = new StudentRegistrationForm();
+        form.setFullName("John Doe");
+        assertEquals("John Doe", form.getFullName());
+    }
+
+    @Test
+    void testDepartment() {
+        StudentRegistrationForm form = new StudentRegistrationForm();
+        form.setDepartment("Computer Science");
+        assertEquals("Computer Science", form.getDepartment());
+    }
+
+    @Test
+    void testContactNo() {
+        StudentRegistrationForm form = new StudentRegistrationForm();
+        form.setContactNo("1234567890");
+        assertEquals("1234567890", form.getContactNo());
+    }
+
+    @Test
+    void testEmail() {
+        StudentRegistrationForm form = new StudentRegistrationForm();
+        form.setEmail("johndoe@example.com");
+        assertEquals("johndoe@example.com", form.getEmail());
+    }
+
+    @Test
+    void testGender() {
+        StudentRegistrationForm form = new StudentRegistrationForm();
+        form.setGender("Male");
+        assertEquals("Male", form.getGender());
+    }
+
+    @Test
+    void testDob() {
+        StudentRegistrationForm form = new StudentRegistrationForm();
+        form.setDob("01/01/2000");
+        assertEquals("01/01/2000", form.getDob());
+    }
+
+    @Test
+    void testAddress() {
+        StudentRegistrationForm form = new StudentRegistrationForm();
+        form.setAddress("123 Main St");
+        assertEquals("123 Main St", form.getAddress());
+    }
+
+    @Test
+    void testPassword() {
+        StudentRegistrationForm form = new StudentRegistrationForm();
+        form.setPassword("password");
+        assertEquals("password", form.getPassword());
+    }
+}

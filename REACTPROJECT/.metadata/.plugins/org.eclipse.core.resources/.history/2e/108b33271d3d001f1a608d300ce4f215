@@ -1,0 +1,56 @@
+package Local;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+import java.util.Scanner;
+
+class StudentRegistrationFormTest {
+
+    @Test
+    void testStudentRegistrationForm() {
+        StudentRegistrationForm form = new StudentRegistrationForm();
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.println("Enter Roll No:");
+        form.setRollNo(scanner.nextLine());
+        System.out.println("Enter Full Name:");
+        form.setFullName(scanner.nextLine());
+        System.out.println("Enter Department:");
+        form.setDepartment(scanner.nextLine());
+        System.out.println("Enter Contact No:");
+        form.setContactNo(scanner.nextLine());
+        System.out.println("Enter Email:");
+        form.setEmail(scanner.nextLine());
+        System.out.println("Enter Gender:");
+        form.setGender(scanner.nextLine());
+        System.out.println("Enter Date of Birth (dd/mm/yyyy):");
+        form.setDob(scanner.nextLine());
+        System.out.println("Enter Address:");
+        form.setAddress(scanner.nextLine());
+        System.out.println("Enter Password:");
+        form.setPassword(scanner.nextLine());
+
+        System.out.println("Testing Roll No...");
+        assertEquals("12345", form.getRollNo());
+        System.out.println("Testing Full Name...");
+        assertEquals("John Doe", form.getFullName());
+        System.out.println("Testing Department...");
+        assertEquals("Computer Science", form.getDepartment());
+        System.out.println("Testing Contact No...");
+        assertEquals("1234567890", form.getContactNo());
+        System.out.println("Testing Email...");
+        assertEquals("johndoe@example.com", form.getEmail());
+        System.out.println("Testing Gender...");
+        assertEquals("Male", form.getGender());
+        System.out.println("Testing Date of Birth...");
+        assertEquals("01/01/2000", form.getDob());
+        System.out.println("Testing Address...");
+        assertEquals("123 Main St", form.getAddress());
+        System.out.println("Testing Password...");
+        assertEquals("password", form.getPassword());
+
+        scanner.close();
+    }
+}

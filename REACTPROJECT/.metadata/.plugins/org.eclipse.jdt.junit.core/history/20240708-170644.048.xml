@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="StudentRegistrationFormTest.testStudentRegistrationForm" project="INSTITUTEMANAGEMENTSYSTEMUSINGREACTJS" tests="1" started="1" failures="1" errors="0" ignored="0">
+  <testsuite name="Local.StudentRegistrationFormTest" time="12.101" displayname="StudentRegistrationFormTest" uniqueid="[engine:junit-jupiter]/[class:Local.StudentRegistrationFormTest]">
+    <testcase name="testStudentRegistrationForm" classname="Local.StudentRegistrationFormTest" time="12.101" displayname="testStudentRegistrationForm()" uniqueid="[engine:junit-jupiter]/[class:Local.StudentRegistrationFormTest]/[method:testStudentRegistrationForm()]">
+      <failure>org.opentest4j.AssertionFailedError: Validation failed&#13;
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:38)&#13;
+	at org.junit.jupiter.api.Assertions.fail(Assertions.java:138)&#13;
+	at Local.StudentRegistrationFormTest.testStudentRegistrationForm(StudentRegistrationFormTest.java:73)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)&#13;
+&#13;
+</failure>
+    </testcase>
+  </testsuite>
+</testrun>

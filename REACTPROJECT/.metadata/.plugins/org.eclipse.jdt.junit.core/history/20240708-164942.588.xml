@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="StudentRegistrationFormTest" project="INSTITUTEMANAGEMENTSYSTEMUSINGREACT" tests="9" started="9" failures="0" errors="0" ignored="0">
+  <testsuite name="Local.StudentRegistrationFormTest" time="0.036" displayname="StudentRegistrationFormTest" uniqueid="[engine:junit-jupiter]/[class:Local.StudentRegistrationFormTest]">
+    <testcase name="testAddress" classname="Local.StudentRegistrationFormTest" time="0.026" displayname="testAddress()" uniqueid="[engine:junit-jupiter]/[class:Local.StudentRegistrationFormTest]/[method:testAddress()]"/>
+    <testcase name="testDob" classname="Local.StudentRegistrationFormTest" time="0.001" displayname="testDob()" uniqueid="[engine:junit-jupiter]/[class:Local.StudentRegistrationFormTest]/[method:testDob()]"/>
+    <testcase name="testEmail" classname="Local.StudentRegistrationFormTest" time="0.001" displayname="testEmail()" uniqueid="[engine:junit-jupiter]/[class:Local.StudentRegistrationFormTest]/[method:testEmail()]"/>
+    <testcase name="testDepartment" classname="Local.StudentRegistrationFormTest" time="0.001" displayname="testDepartment()" uniqueid="[engine:junit-jupiter]/[class:Local.StudentRegistrationFormTest]/[method:testDepartment()]"/>
+    <testcase name="testContactNo" classname="Local.StudentRegistrationFormTest" time="0.001" displayname="testContactNo()" uniqueid="[engine:junit-jupiter]/[class:Local.StudentRegistrationFormTest]/[method:testContactNo()]"/>
+    <testcase name="testGender" classname="Local.StudentRegistrationFormTest" time="0.001" displayname="testGender()" uniqueid="[engine:junit-jupiter]/[class:Local.StudentRegistrationFormTest]/[method:testGender()]"/>
+    <testcase name="testRollNo" classname="Local.StudentRegistrationFormTest" time="0.001" displayname="testRollNo()" uniqueid="[engine:junit-jupiter]/[class:Local.StudentRegistrationFormTest]/[method:testRollNo()]"/>
+    <testcase name="testPassword" classname="Local.StudentRegistrationFormTest" time="0.001" displayname="testPassword()" uniqueid="[engine:junit-jupiter]/[class:Local.StudentRegistrationFormTest]/[method:testPassword()]"/>
+    <testcase name="testFullName" classname="Local.StudentRegistrationFormTest" time="0.001" displayname="testFullName()" uniqueid="[engine:junit-jupiter]/[class:Local.StudentRegistrationFormTest]/[method:testFullName()]"/>
+  </testsuite>
+</testrun>

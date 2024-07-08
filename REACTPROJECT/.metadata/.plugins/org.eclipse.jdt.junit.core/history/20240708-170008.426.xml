@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="StudentRegistrationFormTest (1)" project="INSTITUTEMANAGEMENTSYSTEMUSINGREACTJS" tests="1" started="1" failures="0" errors="1" ignored="0">
+  <testsuite name="Local.StudentRegistrationFormTest" time="10.198" displayname="StudentRegistrationFormTest" uniqueid="[engine:junit-jupiter]/[class:Local.StudentRegistrationFormTest]">
+    <testcase name="testStudentRegistrationForm" classname="Local.StudentRegistrationFormTest" time="10.198" displayname="testStudentRegistrationForm()" uniqueid="[engine:junit-jupiter]/[class:Local.StudentRegistrationFormTest]/[method:testStudentRegistrationForm()]">
+      <error>java.lang.IllegalArgumentException: Contact No must be 10 digits&#13;
+	at Local.StudentRegistrationForm.setContactNo(StudentRegistrationForm.java:58)&#13;
+	at Local.StudentRegistrationFormTest.testStudentRegistrationForm(StudentRegistrationFormTest.java:27)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)&#13;
+&#13;
+</error>
+    </testcase>
+  </testsuite>
+</testrun>
