@@ -1,0 +1,8 @@
+//2.BDD - 'context' and 'specify' 
+// context('Suite 2', ()=> { 
+    specify('add(3,3) should return 6', ()=> {
+    expect(add(3,3)).to.be.equal(6); 
+    
+})
+})"test": "mocha --reporter mochawesome --reporter-options reportDir=Report,reopenfilename=Test_Report"
+ "test": "mocha \"test/**/chai.assert.js\" "
